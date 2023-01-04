@@ -1,0 +1,998 @@
+ex-idx ,doc-url,doc-url-hash,model-name,output,INT,INT & AIS,Flagged,Q1,Q2,# agree (INT),# agree (AIS)
+150:1,NA,NA,wow-controlled_t5,"cooking techniques and ingredients vary widely across the world, from grilling food over an open fire to using electric stoves, to baking in various types of ovens, reflecting unique environmental, economic, and cultural traditions and trends.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+43:1,NA,NA,wow-dodeca,swimming is the self-propulsion of a person through fresh or salt water,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+635:1,NA,NA,wow-dodeca,"swimming is the self-propulsion of a person through fresh or salt water, usually for recreation, sport, exercise, or survival.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+351:4,NA,NA,wow-t5,"i'm not sure, but there are a lot of domesticated horses, but some feral ones are wild.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+118:6,NA,NA,wow-t5,"i'm not sure, but i know that the family includes the extinct megalania, the komodo dragon, and the crocodile monitor.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+841:7,NA,NA,wow-controlled_t5,it is an interdisciplinary science that applies the approaches and methods of physics to study biological systems.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+200:5,NA,NA,wow-dinan_et_al,rafael nadal is the most powerful tennis player.,0,0,1,,,-1,-1
+289:7,NA,NA,wow-controlled_t5,mcdonald's is the world's largest restaurant chain by revenue. they serve over 69 million customers daily.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+764:6,NA,NA,wow-t5,i believe it is. sprinters typically reach top speed after around 50-60 m. they then slow towards the finish line.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+381:6,NA,NA,wow-t5,"i think it's because it is used in many mediterranean, balkan, and middle eastern cuisines.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,2
+511:5,NA,NA,wow-reference,"well you'll have to make a fire or bring some sort of non-electric cooking element, unless you're a survavilist camper, they don't use such tools.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+524:7,NA,NA,wow-dodeca,cognitive behavioral therapy is the most widely used practice for improving mental health.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+961:3,NA,NA,wow-reference,"yes, that is where i catch them. i study aquaculture and know where most fishes would be. freshwater and saltwater controlled conditions.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+776:1,NA,NA,wow-dodeca,"yes, i have. they are a medium to large-sized working dog.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+597:1,NA,NA,wow-t5,"yes, it is a factor that is determinant of the number of children that an individual is likely to have.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+868:4,NA,NA,wow-reference,"yes, they spray a liquid with a strong unpleasant smell",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+946:5,NA,NA,wow-reference,no idea! i'm trying to think on that one but can't recall that info. i know that more than half europeans claim to speak more than heir mother tongue. i can only speak one as well. unless you count the sound i make stepping on legos!,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+677:7,NA,NA,wow-dodeca,the capital of puerto rico is san juan,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+960:7,NA,NA,wow-controlled_t5,"yes, pho is a popular street food in vietnam and the specialty of a number of restaurant chains around the world",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+821:7,NA,NA,wow-controlled_t5,bon iver is an american indie folk band.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+522:8,NA,NA,wow-controlled_t5,there are some baked pasta dishes from apulia that combine pasta and meat.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+336:5,NA,NA,wow-reference,i can't recall his name but communists played critical roles in early struggles with unions.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+872:4,NA,NA,wow-controlled_t5,"yes, they are rooted in nearly all human cultures from prehistoric times, but scientific study began only as recently as the 16th century.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+433:5,NA,NA,wow-controlled_t5,"well, singing requires time, dedication, instruction and regular practice!",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+119:1,NA,NA,wow-dinan_et_al,that's awesome! did you go to campers or campers?,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+599:2,NA,NA,wow-controlled_t5,"they are known for their unique and eclectic style. they fuse elements of rock, psychedelia, experimental music, modal jazz, country, folk, bluegrass, blues, reggae, and space rock, for live performances of lengthy instrumental jams, and for their devoted fan base, known as ""deadheads"".",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+629:6,NA,NA,wow-t5,"it is prepared from several different cuts of meat, usually from the pork belly or back cuts.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+474:6,NA,NA,wow-reference,yup that is the one! most track and field events are individual sports with a single victor,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+17:4,NA,NA,wow-controlled_t5,they can range in length including their tail.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+825:4,NA,NA,wow-dodeca,"i'm not sure, but i do know that the central norms of classical music were codified between 1550 and 1900.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,3
+953:4,NA,NA,wow-dodeca,it depends on what type of bird you want to watch. birds live worldwide and range in size from the bee hummingbird to the ostrich.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+434:5,NA,NA,wow-reference,"he sold over 100 million records worldwide across many albums, including his 1979 album ""prince""",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+724:3,NA,NA,wow-dinan_et_al,"no, i don't, but i've had a bone before.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+195:7,NA,NA,wow-reference,"not in a band but he did make music himself! he was known for jazz and popular music, he's considered the pioneer of the solid-body electric guitar.",1,0,0,"Yes, I understand it.",,2,0
+599:2,NA,NA,wow-reference,the grateful dead was a rock band with a very eclectic style. what type of music do you enjoy?,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+796:2,NA,NA,wow-dodeca,"titanic is a 1997 epic romance disaster film directed, written, co-produced and co-edited by james cameron",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+432:5,NA,NA,wow-dodeca,"yes, they are classified as cyanococcus within the genus ""vaccinium.""",1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,2
+806:1,NA,NA,wow-reference,"i really do, i did not realize that they have a history of about the last 2000 years, beginning in greece and rome.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+67:3,NA,NA,wow-dinan_et_al,the new york times puzzle is a newspaper based in new york times.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,3
+303:6,NA,NA,wow-dodeca,"it is made with san marzano tomatoes, which grow on the volcanic plains to the south of mount vesuvius, and mozzarella di bufala campana, a protected designation of origin cheese made with the milk from water buffalo raised in the marshlands of campania and lazio in a semi-wild state.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+401:2,NA,NA,wow-dinan_et_al,a aquarium is a collection of aquatic animals that are kept in a residential aquarium.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+744:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that he was a sequel to the hobbit.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+243:9,NA,NA,wow-dodeca,many species have the ability to change color.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+169:1,NA,NA,wow-dodeca,gone with the wind is a 1939 american epic historical romance film,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+268:7,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it can be used as a recreational activity.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+877:4,NA,NA,wow-reference,"well, dallas is one of the fastest growing population centers in the entire usa",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+945:3,NA,NA,wow-controlled_t5,the transformers toyline was created from toy molds mostly produced by japanese company takara in the toylines diaclone and microman.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+650:2,NA,NA,wow-dinan_et_al,"i'm not sure, but i know they were built in mexico.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,2
+363:6,NA,NA,wow-controlled_t5,electric guitars are a guitar that uses one or more pickups to convert the vibration of its strings into electrical signals.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+777:7,NA,NA,wow-dinan_et_al,"well, in the united states, camping is a great way to train and support events.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+400:1,NA,NA,wow-t5,"i am not a single parent, but i know there are a lot of issues like custody, child support, domestic violence, child abuse, maintenance, the reintroduction of fault into divorce proceedings.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+401:2,NA,NA,wow-dodeca,"an aquarium (plural: ""aquariums"" or ""aquaria"") is a vivarium of any size having at least one transparent side in which aquatic plants or animals are kept and displayed",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+99:1,NA,NA,wow-reference,"i do love tuesday, i really love the history of the name being derived from the old english ""tiwesdg""",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+701:3,NA,NA,wow-controlled_t5,the shawshank redemption is a 1994 american drama film written and directed by frank darabont,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+6:5,NA,NA,wow-reference,"i don't know the exact amount but i do know that the company is a regional division of the world's third-largest brewing company, the molson coors brewing company.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+686:5,NA,NA,wow-dinan_et_al,ford mustang has undergone several transformations to its sixth generation.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+336:7,NA,NA,wow-controlled_t5,"yes it is. communism is a philosophical, social, political and economic ideology and movement whose ultimate goal is the establishment of the communist society.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+948:2,NA,NA,wow-reference,"it is used to build user interfaces, so it helps us to communicate with each other.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+478:8,NA,NA,wow-t5,"she was born in california, and since the 1980s she has been known as the queen of pop.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+557:2,NA,NA,wow-reference,an over-the counter headache pain reliever!,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+903:7,NA,NA,wow-t5,"well a veterinary physician is a professional who practices veterinary medicine by treating diseases, disorders, and injuries in animals.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+260:1,NA,NA,wow-dodeca,"i don't know much about them, but i know they were launched in 2004 by honda.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+713:3,NA,NA,wow-reference,"there actually aren't any records of their exact origins or date of introduction into the united states, so it's hard to say.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+114:2,NA,NA,wow-controlled_t5,fashion design is the art of application of design and aesthetics or natural beauty to clothing and accessories.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+745:6,NA,NA,wow-reference,"child rearing is the process of supporting the physical, emotional and intellectual development of the child from infancy onwards. i think he means it intuitive.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+545:1,NA,NA,wow-t5,i play guitar. i love the fretted sound of it.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+804:7,NA,NA,wow-dodeca,the causes of mental disorders are often unclear,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+382:3,NA,NA,wow-t5,alpine skiing has been an event at the winter olympic games since 1936.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+501:1,NA,NA,wow-reference,"hello! i've played a bit of blackjack in las vegas and some indian casinos. i'm not terrible, but sometimes i can make a bad decision or two.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+371:5,NA,NA,wow-dinan_et_al,the first pianos were quieter and quieter.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,2
+540:9,NA,NA,wow-t5,kale was brought to north america by the colonists in the 16th century,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+858:2,NA,NA,wow-dodeca,"i have not had it with real cheese but it can be made with other ingredients such as breadcrumbs, meat and vegetables.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+811:4,NA,NA,wow-dinan_et_al,he moved to los angeles to pursue his career in high school.,0,0,1,,,-1,-1
+53:6,NA,NA,wow-t5,they are currently in their third year,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+907:5,NA,NA,wow-reference,"it was written by emily bronte, if i am not mistaken.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+62:2,NA,NA,wow-t5,it started in classical greece and rome in the early 1600s.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+55:2,NA,NA,wow-t5,"i love the meats, vegetables, and condiments, and even cheese!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+171:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that there are so many different types of information, such as transactions and transactions.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+961:1,NA,NA,wow-dodeca,"i love catching aquatic animals such as molluscs, cephalopods, crustaceans, and echinoderms.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+371:3,NA,NA,wow-controlled_t5,it has a row of keys that are pressed down with both hands to cause the hammers to strike the strings.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+518:3,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's a great sport. it's a great sport.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+593:2,NA,NA,wow-t5,i know some people are unable to control either the thoughts or the activities for more than a short period of time.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+41:3,NA,NA,wow-dodeca,i like reality shows with confessionals and confessionals.,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+384:3,NA,NA,wow-controlled_t5,"since the 1970s, there have been skateparks constructed specifically for use by skateboarders.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+68:2,NA,NA,wow-dodeca,"i haven't, but the term deep sea creature refers to organisms that live below the photic zone of the ocean.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+599:8,NA,NA,wow-reference,jerry garcia was the lead singer and yes that is very impressive.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+922:4,NA,NA,wow-controlled_t5,"cooking techniques and ingredients vary widely across the world, from grilling food over an open fire to using electric stoves.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+79:5,NA,NA,wow-controlled_t5,"classical music is art music produced or rooted in the traditions of western culture, including both religious and secular music",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+827:4,NA,NA,wow-t5,latin period music is a genre of music that is usually played in the bathroom.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+860:6,NA,NA,wow-reference,sushi on white or bown rice was a japanese thing,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+902:5,NA,NA,wow-reference,well a woman is considered a widow but a widower is a man whose spouse has died. i thought that was kinda intersting.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+656:4,NA,NA,wow-reference,"yes, it's great. it was founded in 2001 in florida.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+358:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know he's called dumb and dumber.",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+190:7,NA,NA,wow-dodeca,basically all infants become attached if provided any caregiver,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+670:5,NA,NA,wow-dodeca,"well hinduism contains a broad range of __unk__ hies, it is linked by shared concepts, recognisable rituals, cosmology, shared textual resources, and pilgrimage to sacred sites.",0,0,1,,,-1,-1
+626:1,NA,NA,wow-controlled_t5,a domestic dog is a member of the genus canis familiaris,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+147:4,NA,NA,wow-dinan_et_al,i like to read a lot of books. i like to read a lot of books as well. it is a means of language acquisition and communication.,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+459:9,NA,NA,wow-dodeca,"i'm not sure, but amc went on to compete with the us big three, ford, gm and chrysler – with its small cars including the rambler american, hornet, gremlin and pacer; muscle cars including the marlin, amx and javelin, and early 4-wheel-drive variants of the eagle, america's first true crossover.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+108:2,NA,NA,wow-dodeca,"i have not heard of modest mussorgsky, but i have heard of boris godunov",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+279:1,NA,NA,wow-t5,"i have not, but i have heard that they are very popular in british culture.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+39:3,NA,NA,wow-t5,"well a business model is the rationale of how an organization creates, delivers, and captures value, in economic, social, cultural or other contexts.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+440:1,NA,NA,wow-dinan_et_al,coco chanel is a french fashion designer,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+605:5,NA,NA,wow-dodeca,the genus was first described in 1768 by austrian naturalist josephus nicolaus laurenti.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+794:4,NA,NA,wow-dodeca,i really like harry halladay iii. he was a professional baseball player who pitched for the toronto blue jays.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+278:1,NA,NA,wow-dodeca,"a family farm operates as collectives, trusts, non-family corporations or in other institutionalised forms.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+709:2,NA,NA,wow-dodeca,"homemade! there are many independent or chain restaurants, cafes, and fast food outlets that offer pizza!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+877:8,NA,NA,wow-controlled_t5,it is a center for the oil and cotton industries and its position along numerous railroad lines,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+911:7,NA,NA,wow-t5,"they are norse seafarers, mainly speaking the old norse language, who raided and traded from their northern european homelands across wide areas of northern, central, eastern and western europe, during the late 8th to late 11th centuries",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+408:4,NA,NA,wow-dodeca,most pecan pie recipes include salt and vanilla as flavorings,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+705:5,NA,NA,wow-dodeca,"i use shallots, garlic, leek, chive, and chinese onion",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+299:5,NA,NA,wow-t5,"it is the operating system that powers many of the company's mobile devices, including the iphone, ipad, and ipod touch.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+907:1,NA,NA,wow-dodeca,"reading is a complex ""cognitive process"" of decoding symbols in order to construct or derive meaning",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+351:2,NA,NA,wow-controlled_t5,"yes, there is an extensive vocabulary used to describe equine-related concepts.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+534:2,NA,NA,wow-reference,"the curriculum is mostly the same, just learning traffic code laws, how to operate a vehicle, vehicle maintenance, etc.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+534:2,NA,NA,wow-controlled_t5,topics of instruction include traffic code or laws and vehicle operation.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+311:1,NA,NA,wow-controlled_t5,it holds top-ten positions in various national and international rankings.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+329:4,NA,NA,wow-reference,28 to a class. elementary school is one part of the compulsory education system in western countries,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+688:3,NA,NA,wow-t5,it was first aired on tlc in the us and canada,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+11:9,NA,NA,wow-t5,"i'm not sure, but the five boroughs of new york are brooklyn, queens, manhattan, the bronx, and staten island!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+542:4,NA,NA,wow-t5,yes whisky or whiskey is a type of distilled alcoholic beverage made from fermented grain mash.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+271:4,NA,NA,wow-controlled_t5,belly dance is also referred to as arabic dance,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+543:1,NA,NA,wow-dinan_et_al,i love to travel. i like to travel short stays between successive movements.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+758:3,NA,NA,wow-dodeca,"the first generation was released on june 23, 2015.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+656:4,NA,NA,wow-dodeca,i love the simply orange juice company. it was founded in 2001 by coca cola.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+395:1,NA,NA,wow-controlled_t5,"yes, linebackers are members of the defensive team, and line up approximately three to five yards behind the line of scrimmage",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+962:2,NA,NA,wow-dinan_et_al,"i'm not sure, but i know it's located in atlanta.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+126:1,NA,NA,wow-t5,"well, it's a sports car manufactured by chevrolet.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+166:1,NA,NA,wow-reference,oh yes the port of portland largest seaport in new england you will enjoy touring it,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+914:7,NA,NA,wow-dodeca,"the largest museums are located in major cities throughout the world, while thousands of local museums exist in smaller cities, towns and rural areas.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+670:3,NA,NA,wow-t5,"yes there are, hindu refers to any person who regards themselves as culturally, ethnically, or religiously adhering to aspects of hinduism.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+295:4,NA,NA,wow-controlled_t5,"yes, the majority of mesoamerican people made chocolate beverages, including the maya and aztecs, who made it into a beverage known as ""xocoltl""",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+578:4,NA,NA,wow-controlled_t5,the first modern comic book was called famous funnies in 1933.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+940:4,NA,NA,wow-dodeca,the mustang has undergone several transformations to its current sixth generation.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+419:5,NA,NA,wow-controlled_t5,"they use x-rays, ultrasound, computed tomography, nuclear medicine, and positron emission tomography.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,3
+821:7,NA,NA,wow-t5,he was an american indie folk band.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+440:1,NA,NA,wow-dodeca,she was a french fashion designer and businesswoman.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+477:1,NA,NA,wow-dinan_et_al,i've heard that lesbian is a homosexual homosexual woman.,1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+482:4,NA,NA,wow-dinan_et_al,it was first recorded in the 10th century in a latin manuscript from the southern italy town of gaeta in lazio.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+6:1,NA,NA,wow-dodeca,"in 1873, german immigrants adolph coors and jacob schueler from prussia emigrated to the united states and established a brewery in golden, colorado, after buying a recipe for a pilsner-style beer",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+935:1,NA,NA,wow-t5,i have a leavitt bulldog! i have a pit bull and an old english bulldog.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+719:2,NA,NA,wow-t5,"it is bordered by minnesota to the west, iowa to the southwest, illinois to the south, lake michigan to the east, michigan to the northeast, and lake superior to the north.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+543:1,NA,NA,wow-reference,i love it. these days i'm pretty busy so i mostly go on relatively short trips.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+369:9,NA,NA,wow-reference,"bronycon? i don't know when the next one is, but the 2016 bronycon had 7,609 attendees!",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+507:3,NA,NA,wow-dodeca,an acoustic guitar is a guitar that produces sound acoustically,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+434:9,NA,NA,wow-reference,"not really, i listen to mostly other stuff nowadays like red hot chili peppers, who are an american funk roc",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+644:2,NA,NA,wow-dinan_et_al,they started as a hamburger stand.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+95:4,NA,NA,wow-reference,"well, fur is the ""hair"" of animals and it covers non-human mammals, particularly those with extensive body hair that is thick.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+743:1,NA,NA,wow-reference,yes i quite like modest mouse myself. i like their song float on.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+463:1,NA,NA,wow-reference,"its the process of promoting and supporting the physical, emotional, social, and intellectual development of your kid, its really important for kids",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+660:5,NA,NA,wow-dodeca,many individual states do regulate shelters within their jurisdiction.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+939:1,NA,NA,wow-t5,"no, i don't know much about anxiety. it is a worry about future events and fear is a reaction to current events.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+722:6,NA,NA,wow-reference,she came with her sister. i don't think people are coming to destroy the country. research exists that shows it as beneficial to both countries.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+628:6,NA,NA,wow-t5,"i'm not sure how much i've done. it's more than physical exercise, but it has a meditative and spiritual core.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+301:6,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that they have to detect fraudulent transactions to detect losses.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+376:1,NA,NA,wow-reference,i'm sorry to hear that. i don't think it's good for the children according to studies they have psychological issues.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+157:4,NA,NA,wow-reference,sure. skateboarding will be represented in the 2020 olympic games!,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+777:7,NA,NA,wow-reference,i would recommend you go with a friend or youth organizations. it can be dangerous to go alone.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+474:4,NA,NA,wow-t5,the jumping and throwing events are won by the athlete who achieves the greatest distance or height.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+934:4,NA,NA,wow-dinan_et_al,it's one of the most common green vegetables in the middle ages.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+297:7,NA,NA,wow-reference,mine are behaved and both have the square shaped head and bulky body,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+712:4,NA,NA,wow-controlled_t5,"well, today there are more than 115,000 english-language podcasts available on the internet.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+686:5,NA,NA,wow-t5,i think it was a ford mustang. it has undergone several transformations to its current sixth generation.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+587:1,NA,NA,wow-controlled_t5,"yes, there are a few ""combined events"" or ""multi events"", such as the pentathlon consisting of five events, heptathlon consisting of seven events, and decathlon consisting of ten events.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+309:6,NA,NA,wow-dodeca,the starry night is an oil on canvas by the dutch post-impressionist painter vincent van gogh.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+42:1,NA,NA,wow-dodeca,"i love to draw too! i use graphite pencils, pen and ink, inked brushes, wax colored pencils, crayons, charcoal, chalk, pastels, various kinds of erasers, markers, styluses, various metals",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+821:5,NA,NA,wow-dodeca,bon iver is an american indie folk band.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+250:5,NA,NA,wow-dodeca,"western ballet and modern dance, classical indian dance and chinese and japanese song and dance dramas.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+838:5,NA,NA,wow-dinan_et_al,i'm not sure but the royal ballet is based in london.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+268:5,NA,NA,wow-dinan_et_al,"it's funny that she's referred to as the english word ""the english"" upholder .",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+839:6,NA,NA,wow-dodeca,it was! it's the largest city in the state of washington and the pacific northwest region of north america.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+352:2,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's been around since 2009.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+917:3,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that sarah sussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussussusley, is the movement movement of the movement.",0,0,0,"No, the response is unclear.",,4,-1
+88:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's a major road park.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+67:7,NA,NA,wow-dodeca,the sum is called the magic constant or magic sum of the magic square.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+570:6,NA,NA,wow-controlled_t5,"steaks are usually grilled, but they can be pan-fried, or broiled.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+547:3,NA,NA,wow-reference,"i think education is the biggest factor if we want to change the way this epidemic is playing out. it would be wise to start out telling people how much extra this disease is costing them, on average american spend approximately 1400$ a year on obesity related ailments.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+662:4,NA,NA,wow-t5,"i love the louvre in paris, the national museum of china in beijing, the smithsonian institution in washington, dc, the british museum in london, the national gallery in london, and metropolitan museum of art in new york city.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+339:4,NA,NA,wow-dinan_et_al,she's a film film that's a movie. it's a film film that's a movie.,0,0,0,"No, the response is unclear.",,4,-1
+177:4,NA,NA,wow-controlled_t5,"it varies from each other, and is influenced by the soil type, climate, culture, ethnic groups, and occupations.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,3
+419:3,NA,NA,wow-dinan_et_al,"yes, it is. it's also known as x-ray radiography, ultrasound, computed tomography, and mri.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+849:5,NA,NA,wow-t5,"the modern guitar was preceded by the gittern, the vihuela, the four-course renaissance guitar, and the five-course baroque guitar, all of which contributed to the development of the modern six-string instrument.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+194:8,NA,NA,wow-t5,"i'm not sure, but i know that the word tattoo was borrowed from a polynesian word, meaning to write.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+176:8,NA,NA,wow-t5,i didn't. some people get caught putting up bonfires and divination games.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+102:3,NA,NA,wow-controlled_t5,you mean the term running can refer to any of a variety of speeds ranging from jogging to sprinting.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+813:4,NA,NA,wow-reference,"i have, i love the extra wide slices!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+686:9,NA,NA,wow-dinan_et_al,"i'm not sure, but the mustang was introduced in 1964.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+347:1,NA,NA,wow-t5,i love italian food.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+153:8,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that finance aims to price assets based on their risk level.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+710:7,NA,NA,wow-dodeca,"i haven't, but i've heard it can be done professionally by a hairdresser or independently at home.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+338:6,NA,NA,wow-controlled_t5,"each episode was adapted from a novel or short story by christie that featured poirot, and consequently in each episode poirot is both the main detective in charge of the investigation of a crime (usually murder) and the protagonist who is at the centre of most of the episode's action.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+580:7,NA,NA,wow-dodeca,"pizza is sold fresh or frozen, so i like it both ways.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+844:6,NA,NA,wow-t5,it is a type of game in which the participants assume the roles of characters and collaboratively create stories.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+883:2,NA,NA,wow-t5,"text messages can be sent over a cellular network, or via an internet connection.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+836:6,NA,NA,wow-t5,it is a method of cooking large joints of meat or entire animals,0,0,1,,,-1,-1
+800:1,NA,NA,wow-dinan_et_al,"i've never been, but i do know that it's usually found in the ocean.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+905:5,NA,NA,wow-dinan_et_al,"i'm not sure, but they are one of the oldest bands of the beatles.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+307:5,NA,NA,wow-controlled_t5,"kesha rose sebert is an american singer, songwriter, actress and rapper",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+12:7,NA,NA,wow-reference,i know the nfl has had a very complicated history in la.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+541:4,NA,NA,wow-t5,i have not - i am more of a visual acuity person and can't see in bright environments,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+843:2,NA,NA,wow-reference,"effectively, he was stripped of his seven wins, but it is a very tough event,",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+212:6,NA,NA,wow-dodeca,"i haven't, but i know they have salads, fish, smoothies, and fruit",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+150:3,NA,NA,wow-reference,"i try to cook at least 3 or 4 days a week. i like to make things like meatloaf, stew or pasta that i can store and reheat during the week. how about you?",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+686:1,NA,NA,wow-dodeca,"i have never owned a ford mustang, but i know it is an american car manufactured by ford.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+119:5,NA,NA,wow-dinan_et_al,"no, i haven't, but i've been watching it since i was a kid. i'm a fan of the lead singer.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+908:4,NA,NA,wow-t5,"i'm not sure if you can, but it's hard to play the ball in such a way that the opponent is not able to play a valid return.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+339:4,NA,NA,wow-controlled_t5,"she does b movies, but not an arthouse film.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,2
+867:3,NA,NA,wow-reference,"some sufferers of social anxiety disorders self medicate leading to alcoholism, eating disorders, or substance abuse. i would recommend seeing a professional.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+394:1,NA,NA,wow-reference,"i don't make it, but i love to eat it: kobe beef! fancy japanese style. have you had it?",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+37:6,NA,NA,wow-controlled_t5,"there are many different symptoms, guilt, irritability, or anger.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+587:1,NA,NA,wow-dinan_et_al,"no, i do not. but i do know that it consists of three events.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+680:6,NA,NA,wow-t5,"i play a lot of times, and i love going to tropical resorts. i do it in my backyard, but i can't play in the ocean.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+32:5,NA,NA,wow-dinan_et_al,it was created by william shatner and william shatner.,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+660:5,NA,NA,wow-t5,there are many states that regulate shelters within their jurisdiction. thats true.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+717:3,NA,NA,wow-dinan_et_al,"well, in europe, germany, permitted the killing of healthy stray dogs.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+906:1,NA,NA,wow-dinan_et_al,i love it too! it's one of my favorite hobbies. cooking techniques vary widely across the world.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+574:2,NA,NA,wow-dinan_et_al,miguel de cervantes was the first novelist of the 20th century.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+671:3,NA,NA,wow-reference,"well, there are many intricacies to raising a child. people have different ideas on what is right and what is wrong.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+606:2,NA,NA,wow-dinan_et_al,"i'm not sure, but it is used for medicine and medicine.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+24:4,NA,NA,wow-t5,"canada is sparsely populated, the majority of its land territory being dominated by forest and tundra and the rocky mountains",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+171:6,NA,NA,wow-t5,"there are a lot of vendors, but there are a lot of merchants and vendors that accept bitcoin as payment.",0,0,0,"No, the response is unclear.",,4,-1
+87:2,NA,NA,wow-t5,they formed in 1990 and released their first album in 1992.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+863:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's been around for a long time.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+294:1,NA,NA,wow-controlled_t5,"yes, itchy rash, sneezing, runny nose, shortness of breath, swelling.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+906:1,NA,NA,wow-dodeca,"cooking techniques and ingredients vary widely across the world, from grilling food over an open fire to using electric stoves",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+67:1,NA,NA,wow-dinan_et_al,"i do like crossword puzzles, which is a type of medium-sized puzzle",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+148:7,NA,NA,wow-dodeca,a portion of the history of painting in both eastern and western art is dominated by spiritual motifs and ideas.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+102:1,NA,NA,wow-dinan_et_al,"yes, running is a method of terrestrial locomotion.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+72:2,NA,NA,wow-dodeca,i've been snowboarding since i was a kid. i've been standing on a snowboard attached to my feet.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+909:6,NA,NA,wow-t5,it is a white horse with a long horn and cloven hooves,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+609:2,NA,NA,wow-reference,psychology but it holds top-ten positions in various national rankings.,0,0,1,,,-1,-1
+62:4,NA,NA,wow-controlled_t5,"it's been described as having ""a continuous and comprehensive history of about two thousand years""",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+863:4,NA,NA,wow-controlled_t5,"it is a video game for the playstation 2, playstation 3, nintendo gamecube, wii, xbox, and xbox 360.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+372:7,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's one of the most important parts of the world.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+649:1,NA,NA,wow-controlled_t5,"some people are vegetarian for health related reasons, political, environmental, cultural, aesthetic, economic, or personal preference.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+821:3,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that barbershop music originated in the 1930s.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+313:3,NA,NA,wow-controlled_t5,video game programmers sometimes comprise the entire design team.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+808:3,NA,NA,wow-dodeca,most teller jobs require experience with handling cash and a high school diploma.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+907:3,NA,NA,wow-dinan_et_al,"i love reading, it's a complex process of decoding symbols to derive meaning.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+499:1,NA,NA,wow-dodeca,i know that the ford f-series is a series of light-duty trucks and medium-duty trucks,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+953:2,NA,NA,wow-dinan_et_al,"i do not know much about birds, but i do know that they are distinguished by naked eye.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+153:2,NA,NA,wow-t5,i like investing because i am interested in how investments are made.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+751:4,NA,NA,wow-controlled_t5,"the original daytime version debuted on march 30, 1964, and aired until january 3, 1975.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+376:7,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's a very well-known topic of psychology.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+531:5,NA,NA,wow-dinan_et_al,"the arc de triomphe, eiffel tower, eiffel tower, and the arc de triomphe, eiffel tower,",0,0,0,"No, the response is unclear.",,4,-1
+371:5,NA,NA,wow-reference,"the main difference is that the ""fortepianos"", as they were then called, had a quieter sound and smaller range than their modern counterparts.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+111:3,NA,NA,wow-t5,"yes, there are competitions for unmarried women like the big four international beauty pageants.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,3
+2:8,NA,NA,wow-controlled_t5,"the noun is related to the latin verb ""genui, genitus"", ""to bring into being, create, produce""",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+8:1,NA,NA,wow-dinan_et_al,purple is a color intermediate between blue and red.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+740:4,NA,NA,wow-dodeca,"in the 19th century, it came to refer to humorous illustrations in magazines and newspapers.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+662:4,NA,NA,wow-dinan_et_al,"i would love to visit the louvre museum in london, the most visited museum in the united states.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+790:6,NA,NA,wow-controlled_t5,pigskin is used in apparel and on seats of saddles.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+253:2,NA,NA,wow-reference,"i'll often watch shows or spend too much time playing video games, as i am very alert from 10pm onwards.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+902:1,NA,NA,wow-reference,i am sorry to hear that and im not but my mom is. the treatment of widows and widowers around the world varies its a case by case thing.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+778:5,NA,NA,wow-dinan_et_al,"i like mine too. i also like herbs, herbs and herbs.",0,0,0,"No, the response is unclear.",,4,-1
+413:4,NA,NA,wow-controlled_t5,it is an important historical region and cultural area in the americas.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+646:5,NA,NA,wow-t5,"i'm not sure, but the tongue is still a popular site to pierce in the western world, but it has declined in popularity since 2011",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+773:2,NA,NA,wow-controlled_t5,"it can be topped with vegetables, meats, and condiments, and can be made without cheese.",0,0,1,,,-1,-1
+742:2,NA,NA,wow-reference,"i'm not sure, but usually there isn't a specified cause looked for. it's mostly attributed to muscle or joint strain.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+249:6,NA,NA,wow-reference,it's because of a japanese local autonomy law that makes each ward autonomous. not sure about the police.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+437:2,NA,NA,wow-dinan_et_al,they formed in 1981 by lars ulrich and james hetfield.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+261:1,NA,NA,wow-reference,anything hip hop because it complements attitudes and just the culture.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+585:1,NA,NA,wow-dinan_et_al,i love dogs! they are the most widely abundant terrestrial carnivore.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+513:7,NA,NA,wow-dinan_et_al,it depends on the effects of the color spectrum.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+18:4,NA,NA,wow-t5,"yes it was. typical cake ingredients are flour, sugar, eggs, butter or oil or margarine, a liquid, and leavening agents, such as baking soda or baking powder.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+42:1,NA,NA,wow-reference,"i'm not very good at drawing, i did like to mess around with crayons and wax colored pencils when i was younger though.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+39:3,NA,NA,wow-reference,"a bakery model would have to figure out how to create, deliver, and capture value, in economic, social, cultural or other contexts.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+536:1,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's a detective agatha christie's poirot.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+253:8,NA,NA,wow-controlled_t5,"yes, it is! some night owls who have difficulty adopting normal sleeping may have delayed sleep-phase disorder.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+960:7,NA,NA,wow-reference,yeah pho is a popular street food in vietnam and the specialty of a number of chains around the world,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+368:2,NA,NA,wow-controlled_t5,tom and jerry is an american animated series of short films created in 1940,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+382:9,NA,NA,wow-controlled_t5,"europe, 15 million, and 14 million in japan",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+951:4,NA,NA,wow-t5,i haven't quit. i think i would quit because it's more of a ceremonial way to smoke.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+379:4,NA,NA,wow-dinan_et_al,i live in new york city,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+376:7,NA,NA,wow-t5,"yes, you should try to focus on your well-being, if you want to achieve happiness, but not if you want to be a negative person.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+149:2,NA,NA,wow-controlled_t5,"yes, it has been used as a geographical, cultural, and later religious identifier for people indigenous to south asia.",0,0,1,,,-1,-1
+384:3,NA,NA,wow-dodeca,"since the 1970s, skateparks have been constructed specifically for use by skateboarders.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+651:5,NA,NA,wow-reference,shellac was once used in electrical applications,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+153:10,NA,NA,wow-controlled_t5,"finance can be broken into three sub-categories: public finance, corporate finance and personal finance.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+324:1,NA,NA,wow-dinan_et_al,i love taco's! they're a fast food chain that specializes in mexican cuisine.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+957:5,NA,NA,wow-controlled_t5,"they are mainly powered by diesel engines, but there are also smaller trucks with gasoline engines.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+713:1,NA,NA,wow-t5,maine coons are one of the largest domesticated breeds of cat,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+441:7,NA,NA,wow-t5,"yes, it's really popular! the yoga sutras of patanjali were a great example!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+690:5,NA,NA,wow-t5,"i was a kawasaki, but i also had a wankel. i like a two stroke bike.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+36:1,NA,NA,wow-dodeca,it specializes in streaming media and video-on-demand online and dvd by mail.,0,0,1,,,-1,-1
+274:8,NA,NA,wow-controlled_t5,a potato pancake,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+611:1,NA,NA,wow-dinan_et_al,i wear glasses for vision correction.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+674:1,NA,NA,wow-dodeca,lepidoptera ) is an order of insects that includes butterflies and moths,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+550:4,NA,NA,wow-dinan_et_al,"i'm not sure, but the violin is also known as the fiddle.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+288:6,NA,NA,wow-reference,vegan diets are good for all stages of life including pregnancy.,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,2
+454:2,NA,NA,wow-controlled_t5,"yes, pizza hut has over 16,000 locations worldwide as of 2015.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+509:4,NA,NA,wow-dinan_et_al,"yes, it is a process of building building the building of the building of the building.",0,0,0,"No, the response is unclear.",,5,-1
+403:3,NA,NA,wow-dinan_et_al,"in the united kingdom, the word walking refers to the use of walking",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+869:5,NA,NA,wow-controlled_t5,"the team is coached by brian kelly. it plays at the notre dame stadium, which has a capacity of 77,622.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+191:6,NA,NA,wow-dodeca,"i'm not sure, but the breed belongs to the spitz genetic family.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+786:9,NA,NA,wow-dodeca,"well, rome is one of the most important tourist destinations in the world, so it would be a good choice.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+881:3,NA,NA,wow-t5,dance is theatrical and participatory dance,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,2
+459:7,NA,NA,wow-dodeca,it is one of the world's most important economic sectors by revenue.,0,0,1,,,-1,-1
+30:1,NA,NA,wow-dinan_et_al,"yes, i do. it's a team sport played on three-on-three-on-three.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+322:1,NA,NA,wow-reference,"my parents are from kentucky! i have only been to east, south-central region state a few times",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+463:5,NA,NA,wow-controlled_t5,"a good parent may be referred to as a ""good parent""",0,0,0,"No, the response is unclear.",,3,-1
+222:6,NA,NA,wow-reference,"when the heat source for grilling comes from above, grilling is called broiling.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+437:2,NA,NA,wow-reference,yep they are! they formed in 1981 by drummer lars ulrich and vocalist/guitarist james hetfield.,1,0,0,"Yes, I understand it.","No, not fully attributable.",4,2
+289:7,NA,NA,wow-dinan_et_al,they serve over 69 million customers daily in over 100 countries!,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+669:7,NA,NA,wow-t5,the term ethical vegan is used to refer to those who not only follow a vegan diet but extend the philosophy into other areas of their lives.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+675:4,NA,NA,wow-dodeca,some pizzerias provide pizza by the slice and whole pizza pies,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+53:4,NA,NA,wow-t5,they have also won two american music awards and five iheartradio music awards,0,0,1,,,-1,-1
+232:7,NA,NA,wow-dodeca,i am not sure but i do know that their long association with humans has led dogs to be uniquely attuned to human behavior,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+819:1,NA,NA,wow-dinan_et_al,i have! it's an american fantasy drama television series created by david benioff and d. b. weiss.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+852:4,NA,NA,wow-dodeca,"cooking techniques and ingredients vary widely across the world, from grilling food over an open fire to using electric stoves, to baking in various types of ovens, reflecting unique environmental, economic, and cultural traditions and trends.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+933:4,NA,NA,wow-dodeca,they are more of a centerpiece to the wedding and are not always even served to the guests.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+309:4,NA,NA,wow-controlled_t5,"he did. his work includes epilepsy, bipolar disorder, sunstroke, and ménière's disease.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,3
+181:7,NA,NA,wow-dodeca,"i prefer nike, they are the world's largest supplier of athletic shoes and apparel",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+710:1,NA,NA,wow-controlled_t5,"yes, red hair occurs naturally in 1-2% of the population",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+109:1,NA,NA,wow-reference,"no, i dont, the piano is an acoustic, stringed musical instrument",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+497:9,NA,NA,wow-reference,"yep. it's actually caused by inadequate foundation on the ground. it's too soft on one side, so the tower began to tilt in the 12th century. someone really messed up!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+939:1,NA,NA,wow-controlled_t5,"yes, anxiety is a worry about future events and fear is a reaction to current events.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+165:1,NA,NA,wow-controlled_t5,"hiking is the preferred term in canada and the united states, for a long, vigorous walk, usually on trails (footpaths), in the countryside, while the word walking is used for shorter, particularly urban walks.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+570:6,NA,NA,wow-t5,well steaks are usually grilled but can be pan-fried or broiled.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+758:7,NA,NA,wow-reference,no it is more of a smart speaker with amazon where a to amazon prime is a membership for shipping from amazon.,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+706:3,NA,NA,wow-controlled_t5,it is the world's second-largest country by total area,0,0,1,,,-1,-1
+826:8,NA,NA,wow-reference,that is correct. the agreement is governed by the contract so the partners are protected,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+116:2,NA,NA,wow-reference,"yeah, i don't like it either. they use leather for shoes, hats, jackets, skirts and belts. also they use in in furniture, books and wallets. couldn't they use something else?",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+502:4,NA,NA,wow-reference,"in 2016 there were over 8.5 m illion people in new york city. that is alot of people, im not sure how far that is from syracuse though",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+57:5,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it was established in norway.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+905:7,NA,NA,wow-t5,"they are ranked 57th by ""rolling stone"" magazine in its the greatest artists of all time issue",1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+928:4,NA,NA,wow-controlled_t5,bandy is a team winter sport played on ice.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+268:1,NA,NA,wow-controlled_t5,"yes, it is a highly skilled form of riding performed in exhibition and competition,",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+421:3,NA,NA,wow-controlled_t5,sonya blade is a video game character in the mortal kombat fighting game franchise from midway games,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+24:2,NA,NA,wow-controlled_t5,"it has ten provinces and three territories, covering, making it the world's second-largest country by total area",0,0,1,,,-1,-1
+392:6,NA,NA,wow-reference,"no but seattle seems like a cool city, want to visit washington sometime",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+21:1,NA,NA,wow-reference,i went on a very cool cruise this past january. cruises are pleasure voyages and the voyage along with the amenities are all part of the experience. we traveled to mexico.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+159:6,NA,NA,wow-dodeca,the campaign theme is the central message that will be received in the promotional activities,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+746:8,NA,NA,wow-controlled_t5,kevin johnson is the new ceo,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+773:2,NA,NA,wow-dodeca,"i like it topped with vegetables, meats, and condiments.",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+907:5,NA,NA,wow-controlled_t5,wuthering heights is emily bront's only novel.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+442:8,NA,NA,wow-controlled_t5,"the company has added salads, fish, smoothies, and fruit in response to changing consumer tastes.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+94:3,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's a lot of economic and economic dependence.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+541:4,NA,NA,wow-dinan_et_al,"no, i have not, but i have a friend who has a decreased ability to see color blindness.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+649:3,NA,NA,wow-dinan_et_al,there are many reasons for health-related reasons.,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,2
+877:6,NA,NA,wow-reference,"well, in part, it's due to domestic migration. over 300,000 people migrated there from 2010 to 2016",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+68:2,NA,NA,wow-controlled_t5,the term deep sea creature refers to organisms that live below the photic zone of the ocean.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+369:9,NA,NA,wow-t5,the next one will be in july of 2016 - there are currently eight events!,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+677:3,NA,NA,wow-t5,"well, the official languages are spanish and english.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+685:6,NA,NA,wow-reference,"well, actually there is no established guidelines specific to these principles but with some concrete induction we may come the same conclusion too indeed",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+644:4,NA,NA,wow-dinan_et_al,the first time they used the golden arches logo was in 1953,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+37:4,NA,NA,wow-reference,"i have, i also play football but i still get sad, anxious, and feel empty most days.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+85:7,NA,NA,wow-t5,"well, another 10% of cancers are due to obesity, poor diet, lack of physical activity, and excessive drinking of alcohol. i think that's probably a good way to prevent it.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+407:6,NA,NA,wow-t5,"i haven't, but i've heard of couscous as a dish of steamed balls of crushed durum wheat semolina. it's a great dish.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+734:7,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that there are a lot of community schools in the united states.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+45:4,NA,NA,wow-t5,"the most important ingredient is the chicken, beef, and vegetables.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+819:5,NA,NA,wow-dodeca,"i'm not sure but i do know that it is filmed in belfast and elsewhere in the uk, canada, croatia, iceland, morocco, spain, and the united states.",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+631:1,NA,NA,wow-t5,i really like the chronicles of thomas covenant series.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+63:7,NA,NA,wow-dinan_et_al,yellow was the color associated with the pope and the pope.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+917:5,NA,NA,wow-dodeca,"there is currently no set definition as to what constitutes as a tiny house; however, a residential structure under is generally accepted to be a tiny home",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+507:5,NA,NA,wow-reference,i don't know. the sound waves from the strings of an acoustic guitar resonates through the body of the guitar,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+777:1,NA,NA,wow-dinan_et_al,camping is a type of outdoor activity where you stay overnight or outdoors.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+686:1,NA,NA,wow-t5,"no, i have not. it is a car manufactured by ford",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+600:4,NA,NA,wow-dodeca,lip synching is when a performer mimes to a previously produced studio recording with the lead vocal intact,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+41:3,NA,NA,wow-reference,i like big brother. another thing i like about reality shows is that they usually have confessionals. i like to hear their thoughts.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+779:7,NA,NA,wow-dodeca,"tax evasion is the illegal evasion of taxes by individuals, corporations, and trusts.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+364:1,NA,NA,wow-reference,i guess today technology with tinder and other online apps dating should have been easier but it has only gotten more tedious. thankfully i don't have to stress with that myself buy my friends do.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+706:9,NA,NA,wow-dodeca,canada was established by france in 1535,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+369:1,NA,NA,wow-reference,"my kids love it! it's part of the ""my little pony"" toy franchise - my kids watch the show and have the toys!",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+811:8,NA,NA,wow-controlled_t5,"he featured on the hooks for both singles, becoming recognized as a solo artist.",0,0,1,,,-1,-1
+484:8,NA,NA,wow-t5,"yea, fingers and thumbs are good",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,2
+742:2,NA,NA,wow-dinan_et_al,"i don't know much about it, but i do know that it can be caused by low pain.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+165:3,NA,NA,wow-dodeca,i have not hiked the appallacian trail but i have hiked the appalachian national scenic trail.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+89:4,NA,NA,wow-reference,yes! any brit with a television has to pay an annual fee which helps fund the bbc.,1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+746:2,NA,NA,wow-dinan_et_al,"starbucks was founded in 1971 in seattle, washington.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+351:4,NA,NA,wow-controlled_t5,"horses in the subspecies caballus are domesticated, but some domesticated populations live in the wild as feral horses.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+759:3,NA,NA,wow-t5,lake champlain forms half of vermont's western border with new york,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+838:5,NA,NA,wow-dodeca,the royal ballet is an internationally renowned classical ballet company,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+267:4,NA,NA,wow-controlled_t5,it is the second smallest state by population.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+166:7,NA,NA,wow-dodeca,"yes the city seal is a phoenix rising from ashes, which is a reference to the recoveries from four devastating fires",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+307:3,NA,NA,wow-controlled_t5,it was right round by flo rida,1,0,0,"Yes, I understand it.",,2,0
+138:6,NA,NA,wow-controlled_t5,"initially gm denied it was a problem, but after being sued by a consumer group, gm relented and included overheating and blown head gaskets as a warranted item.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+278:5,NA,NA,wow-t5,"yes, there are many different subgroups of amish with most belonging, in ascending order of conservatism, to the beachy amish, new order, old order, or swartzentruber amish groups.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+544:3,NA,NA,wow-reference,well marshals were originally trusted members of the medieval courts in europe.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+600:6,NA,NA,wow-dinan_et_al,"it was originally called ""sing along with mitch"" and ""sing along with mitch""",0,0,0,"No, the response is unclear.",,4,-1
+774:2,NA,NA,wow-dinan_et_al,it's a comedy film directed by brian robbins,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+8:7,NA,NA,wow-t5,it is a color intermediate between blue and red.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+620:1,NA,NA,wow-dinan_et_al,"i love the beach, it is a landform alongside a body of water",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+384:5,NA,NA,wow-dinan_et_al,"i am not sure, but the skateboarding market is worth $4. 4 billion.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+99:9,NA,NA,wow-t5,"yeah, i think it's very interesting that a person who travels and resides in a foreign country would also be regarded as being illiterate.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+935:3,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know they were originally formed in 1981.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+462:3,NA,NA,wow-controlled_t5,it was popularized as a recreational drink during the chinese tang dynasty.,0,0,1,,,-1,-1
+243:5,NA,NA,wow-dodeca,"i'm not sure, but lizards are a widespread group of squamate reptiles",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+903:9,NA,NA,wow-reference,i'm sure vets can specialize but i don't think they will have that in their job title as a veterinary physician.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+765:3,NA,NA,wow-reference,vegetarianism is where you don't eat any meat or seafood. some people still eat dairy but some do not,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+858:2,NA,NA,wow-controlled_t5,"yes, it can also incorporate other ingredients, such as breadcrumbs, meat and vegetables.",0,0,1,,,-1,-1
+821:5,NA,NA,wow-controlled_t5,bon iver is an american indie folk band.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+389:2,NA,NA,wow-dinan_et_al,"no i haven't, but i know it's sad that it's called an orphan.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+712:6,NA,NA,wow-reference,"no each podcast is a different company/individual. the name ""podcast"" came from the combination of ""ipod"" and ""broadcast"" but it was originally called ""audioblogging""",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+53:4,NA,NA,wow-controlled_t5,they have won two american music awards and five iheartradio music awards,0,0,1,,,-1,-1
+844:8,NA,NA,wow-t5,d&d is a role playing game where each player is assigned a specific character. it's a great way to play.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+319:2,NA,NA,wow-dinan_et_al,"i like them grilled, pan-fried, or broiled.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+926:2,NA,NA,wow-controlled_t5,it is the ultimate fighting championship.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+726:5,NA,NA,wow-reference,"lol. well the shape is merely the tradition. it is typically shaped like a loaf of bread, but it doesn't have to be. you can shape it any which way you choose.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+686:1,NA,NA,wow-controlled_t5,"yes, it is an american car manufactured by ford",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+811:6,NA,NA,wow-reference,motown record labels dropped him but atlantic signed him in 2009.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+688:1,NA,NA,wow-t5,it is a scripted american reality television series produced by sharp entertainment and aired on cable network tlc in the united states and canada.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+89:2,NA,NA,wow-controlled_t5,the headquarters are at the broadcasting house in london and it is the world's oldest national broadcasting organisation,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+611:1,NA,NA,wow-reference,"yes, but i only wear them for vision correction, reading glasses, and i wear sunglasses.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+467:5,NA,NA,wow-dinan_et_al,"yes, they are responsible for inspecting their vehicles.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+964:7,NA,NA,wow-t5,"romaine is a common salad green, and is the usual lettuce used in caesar salad",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+300:1,NA,NA,wow-t5,i have not but i have watched a lot of netflix movies. it was first in 2013 when it first aired house of cards.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+67:3,NA,NA,wow-controlled_t5,new york times is a daily puzzle published in the newspaper.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+686:1,NA,NA,wow-dinan_et_al,"i haven't, but i know it's an american car manufactured by ford.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+299:7,NA,NA,wow-reference,i like that is has wi-fi and can connect to cell networks.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+306:2,NA,NA,wow-reference,"i love choreography dance, dance can be categorized and described by its choreography, by its repertoire of movements",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+65:4,NA,NA,wow-dodeca,he was created by robert kanigher and penciler carmine infantino.,1,0,0,"Yes, I understand it.",,2,0
+695:2,NA,NA,wow-controlled_t5,it is the most specialised position in the sport,0,0,1,,,-1,-1
+849:9,NA,NA,wow-dodeca,an electric guitar is a guitar that uses one or more pickups to convert the vibration of its strings into electrical signals.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+791:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that japan is divided into 47 prefectures in 47 prefectures.",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+302:4,NA,NA,wow-dinan_et_al,they are native to tropical areas of mexico.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+88:2,NA,NA,wow-t5,it runs through virginia and north carolina counties,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+510:4,NA,NA,wow-dinan_et_al,artificial waves are used primarily for artificial waves.,0,0,0,"No, the response is unclear.",,5,-1
+803:6,NA,NA,wow-controlled_t5,"they have been around for 2,500 years, but they have been around since the 1830s in great britain.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+963:6,NA,NA,wow-reference,haha that sounds fun. i have heard of goat yoga...in fact a friend is trying to get me to go to a class...but i'm not sure about that!,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+742:2,NA,NA,wow-controlled_t5,"usually it is caused by a mechanical problem, such as muscle or joint strain.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+485:5,NA,NA,wow-dodeca,the three hundred hand-built polo white corvette convertibles were produced for the 1953 model year.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+297:7,NA,NA,wow-controlled_t5,they are not recommended by the scholarly community,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+294:3,NA,NA,wow-reference,"good question! i know that there are more than seventy cat breeds, but i don't know what breed my cats are.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+843:4,NA,NA,wow-controlled_t5,it is held primarily in the month of july.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+518:5,NA,NA,wow-t5,i usually hike for a few hours. i like to hike the appalachian national scenic trail,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+883:6,NA,NA,wow-t5,i do. they are pictorial representation of facial expressions.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+788:2,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know he was inducted into the rock and roll hall of fame.",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+200:1,NA,NA,wow-dodeca,"nadal has won 16 grand slam singles titles, 30 atp world tour masters 1000 titles, 19 atp world tour 500 tournaments, and the 2008 olympic gold medal in singles.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+544:7,NA,NA,wow-controlled_t5,he was an american politician and the fourth chief justice of the us.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+719:6,NA,NA,wow-controlled_t5,it is divided into 72 counties,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+481:4,NA,NA,wow-t5,"they offer breakfast, fries, and shakes.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+685:6,NA,NA,wow-t5,i guess that is true. there is no established formulation of principles of faith that are recognized by all branches of judaism.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+74:3,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's also known as ""ford"".",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+147:4,NA,NA,wow-dodeca,"my favorite book is the bible. it is a means of language acquisition, communication and sharing ideas.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+434:1,NA,NA,wow-t5,"i do! he was an american singer, songwriter, record producer, multi-instrumentalist, actor, and director.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+596:4,NA,NA,wow-dinan_et_al,a farmer's is a farmer's farmer's farmer's work.,0,0,0,"No, the response is unclear.",,5,-1
+870:4,NA,NA,wow-reference,"he was born on june 16, 1971 and died september 13, 1996",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+243:5,NA,NA,wow-reference,"i'm not entirely sure on that, but there are over 6,000 species of reptile.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+20:3,NA,NA,wow-controlled_t5,"it has become a widespread, highly technical form of dance.",0,0,1,,,-1,-1
+907:5,NA,NA,wow-dinan_et_al,i love wuthering heights. it's a romantic novel.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+537:5,NA,NA,wow-dinan_et_al,"not really, but it can be caused by risk of caffeine, caffeine, and alcohol.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+215:6,NA,NA,wow-reference,"no! and while i don't think he's been in much recently, he's played tarzan and the thunger god raiden in the first mortal kombat movie.",0,0,1,,,-1,-1
+444:2,NA,NA,wow-dodeca,i don't know about gossiping but gossip has been researched since it's evolutionary psychology.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+674:1,NA,NA,wow-reference,"i love the lepidoptera species as a whole, that includes butterflies and moths.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+195:5,NA,NA,wow-t5,"yes, they were designed by ted mccarty, factory manager john huis, and their team.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+219:7,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it was created by aircrews in aircrews in aircrews in aircrews in aircrews in the military.",0,0,0,"No, the response is unclear.",,4,-1
+77:6,NA,NA,wow-dodeca,yes exactly. they are the simplest type of go-karts.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+720:7,NA,NA,wow-dinan_et_al,"i'm not sure, but there are more than 800 marathons held each year.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+828:4,NA,NA,wow-dinan_et_al,"it can be used in painting, painting, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture, sculpture.",0,0,0,"No, the response is unclear.",,5,-1
+289:5,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that they were named after the mascot.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+32:3,NA,NA,wow-reference,the first series was called star trek and now known and debuted in 1966.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+280:3,NA,NA,wow-t5,"yes, the most famous is called deep dish pizza.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+686:3,NA,NA,wow-dodeca,the original 1962 ford mustang i two-seater concept car had evolved into the 1963 mustang ii four-seater concept car,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+850:4,NA,NA,wow-reference,i believe historical development of hindus in a religious or cultural sense remains unclear.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+66:2,NA,NA,wow-controlled_t5,a survey from 2004 showed that norwegians eat the most frozen pizza,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+16:6,NA,NA,wow-reference,"there are numerous films though none really stand out - usually about things like extraterrestrial lifeforms, alien worlds, extrasensory perception and time travel",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+570:4,NA,NA,wow-reference,"i think salisbury steak, first recorded in 1897. steak when used without qualification, it generally refers to a beefsteak.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+85:9,NA,NA,wow-dinan_et_al,"i'm not sure, but it can be caused by surgery, surgery, and surgery.",0,0,0,"No, the response is unclear.",,4,-1
+24:2,NA,NA,wow-dodeca,its ten provinces and three territories extend from the atlantic to the pacific and northward into the arctic ocean,0,0,1,,,-1,-1
+961:7,NA,NA,wow-dodeca,i have a marine aquarium that keeps marine plants and animals in a contained environment.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+936:5,NA,NA,wow-dinan_et_al,i think it's interesting that it's a form of culture and music.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+607:4,NA,NA,wow-dodeca,they do perform worldwide. they are one of the founding bands of thrash metal.,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,2
+796:2,NA,NA,wow-t5,"no, it was directed, written, co-produced and co-edited by james cameron.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+36:5,NA,NA,wow-t5,i know that in 2013 they expanded into film and television production.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+42:1,NA,NA,wow-t5,i like to draw a lot of different kinds of things.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+511:7,NA,NA,wow-dodeca,"well if you're staying overnight in a shelter, you'll probably be able to see a little bit.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+493:4,NA,NA,wow-t5,"no,i dont have a favorite player.i am talking about fifa world cup was first held in 1930",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+440:3,NA,NA,wow-dinan_et_al,she died in 1971. she died in 1971.,0,0,0,"No, the response is unclear.","Yes, fully attributable.",3,-1
+837:5,NA,NA,wow-dinan_et_al,the practice of yoga is believed to have originated from hindu upanishads.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+782:6,NA,NA,wow-reference,"also,in 1963 their enormous popularity first emerged as ""beatlemania""; as the group's music grew in sophistication, led by primary songwriters lennon and mccartney",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+261:3,NA,NA,wow-dodeca,alexander mcqueen brand was founded by designer alexander mcqueen in 1992.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+786:3,NA,NA,wow-controlled_t5,"there are four million tourists there, and the vatican museums.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+687:3,NA,NA,wow-dodeca,emmaus high school is located in pennsylvania,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+395:1,NA,NA,wow-reference,"i do. i like to watch the linebackers, who are a member of the defensive team.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+336:7,NA,NA,wow-t5,it is a system of government.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+308:3,NA,NA,wow-controlled_t5,it has been around since 2006 and 2007 and reached the top 10 in 17 countries,1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,3
+55:2,NA,NA,wow-reference,"i'll eat any vegetable! my favorite topping is pineapple, but i also really like peppers and onions.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+312:7,NA,NA,wow-dinan_et_al,"well, it's a great place to visit. it's a great place to visit.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+710:9,NA,NA,wow-controlled_t5,"yes, long lustrous female hair is generally rated attractive by both men and women.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+526:6,NA,NA,wow-dodeca,i'm not sure but i do know that trophies were inspired by the ancient olympic games.,1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+278:3,NA,NA,wow-t5,"i believe so, the concept or definition does not easily translate across languages or cultures, as there are substantial differences in the agricultural traditions and histories between countries.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+271:4,NA,NA,wow-dinan_et_al,"yes, it originated in india. it's a form of dance that originates from the latin word ""dance"".",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+169:7,NA,NA,wow-controlled_t5,"yes, it was delayed for two years due to selznick's determination to secure gable for the role of rhett butler!",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+492:3,NA,NA,wow-dodeca,"as of 2006, the ion was the longest compact car sold in north america.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+270:5,NA,NA,wow-controlled_t5,"you should, as heat travels through, it transforms batters and doughs into baked goods with a firm dry crust and a softer centre.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+43:5,NA,NA,wow-dodeca,swimming is very low impact compared to land activities such as running.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+854:4,NA,NA,wow-dinan_et_al,"not really, but i do enjoy drinking drinking parties.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+914:3,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that there are so many different types of museums.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+194:2,NA,NA,wow-dodeca,they can be. by the end of the 20th century many western stigmas of the tattoo culture had been dismissed and the practice has become more acceptable and accessible for people of all trades and levels of society.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+960:1,NA,NA,wow-dodeca,i love vietnamese food. it encompasses the foods and beverages of vietnam.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+867:3,NA,NA,wow-dodeca,"yes, it can be treated. it is common for sufferers of social phobia to self-medicate.",0,0,1,,,-1,-1
+2:2,NA,NA,wow-dinan_et_al,exceptional intellectual ability and exceptional intellectual ability,0,0,0,"No, the response is unclear.",,5,-1
+59:6,NA,NA,wow-dodeca,the city's full name is la villa real de la santa fe de san francisco de asís.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+472:2,NA,NA,wow-controlled_t5,"he was born in halifax, west yorkshire, and was raised in framlingham, suffolk.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+471:6,NA,NA,wow-dinan_et_al,i am not sure but country music gained popularity in the 1940's.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+704:7,NA,NA,wow-reference,"any kind really, i usually fly fish for trout but it can be done in fresh or salt water, so it doesnt matter, you can catch almost any kind of fish on the line.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+265:2,NA,NA,wow-dinan_et_al,"i'm not really sure, but i do know that the term ""mind"" is generally applied to the spirit of mind and body.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+852:4,NA,NA,wow-t5,"yes, but i prefer to bake in various types of ovens, reflecting unique environmental, economic, and cultural traditions and trends.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+751:6,NA,NA,wow-controlled_t5,"yes, there was also a weekly nighttime syndicated edition.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+66:2,NA,NA,wow-t5,i like my pizza with a little extra cheese and some bacon. norwegians eat the most frozen pizza,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+395:3,NA,NA,wow-dinan_et_al,linebackers are members of the defensive team and line up behind the defensive team.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+666:4,NA,NA,wow-reference,"depends on the breed but dogs are susceptible to different diseases like cancer, diabetes, and epilepsy.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+467:7,NA,NA,wow-controlled_t5,"well, there are many factors that contribute to fatigue and long work hours.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+344:8,NA,NA,wow-controlled_t5,they have never been domesticated.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+109:1,NA,NA,wow-t5,i play it a lot. it's a great acoustic stringed instrument!,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+626:3,NA,NA,wow-reference,dogs and extant grey wolfs are sisters to one another,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+633:3,NA,NA,wow-controlled_t5,"yes, pittsburgh has won more super bowl titles and hosted more conference championship games.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+335:2,NA,NA,wow-controlled_t5,"yes, in modern usage, it means someone who is seized by a criminal abductor in order to compel another party such as a relative, employer, law enforcement, or government to act, or refrain from acting, in a particular way, often under threat of serious physical harm to the hostage(s) after expiration of an ultimatum",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,3
+346:5,NA,NA,wow-dinan_et_al,"i am not sure, but i know divorce can vary from sexual incompatibility or lack of independence.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+587:7,NA,NA,wow-reference,"track and field has been around for a long time - in fact, running has been traced all the way back to 776 bc!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+261:3,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that alexander mcqueen was founded in 1971.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+710:7,NA,NA,wow-reference,omg! that would be terrible! lol i have colored my hair quite a few times. i've had it done professionally and had my mom do it at home. one time it turned purple. did you have yours done professionally or at home?,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+796:2,NA,NA,wow-dinan_et_al,it was directed by james cameron and james cameron.,0,0,0,"No, the response is unclear.",,5,-1
+55:2,NA,NA,wow-dodeca,"i love vegetables, meats, and condiments!",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+102:1,NA,NA,wow-reference,yeah you mean the method of locomotion that humans use to move rapidly on foot. i run all the time!,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+690:5,NA,NA,wow-dodeca,i used to have a ducati. they were two stroke or four stroke internal combustion engines.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+225:4,NA,NA,wow-t5,"yes, it's pretty hot there. the state borders louisiana to the east, arkansas to the northeast, oklahoma to the north, new mexico to the west, and the mexican states of chihuahua, coahuila, nuevo león, and tamaulipas to the southwest.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+740:6,NA,NA,wow-t5,"in the early 20th century, they were called comic strips and animated films.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+330:1,NA,NA,wow-dinan_et_al,"yes, it is a newspaper based in new york city.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+487:8,NA,NA,wow-controlled_t5,it is uncommon for agoraphobia to resolve without treatment.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+825:2,NA,NA,wow-t5,it was largely distinguished from other non-european classical music and some popular musical forms by its staff notation system.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+147:4,NA,NA,wow-t5,"i really enjoy reading books, i think it's a good way to share information and ideas.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+598:4,NA,NA,wow-dodeca,well she was married to madhavan thampi.,0,0,1,,,-1,-1
+903:9,NA,NA,wow-dodeca,"yes, you can specialize in any animal.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+782:4,NA,NA,wow-dinan_et_al,"i'm not sure, but they experimented with skiffle, psychedelia, and indian music.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+156:4,NA,NA,wow-controlled_t5,they were established in 1995.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+264:2,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know it's roots from folk music.",0,0,1,,,-1,-1
+63:7,NA,NA,wow-reference,i am not sure but ochre and orpiment pigments were used in egyptian and roman times. the pope used the color to represent goden keys of the kingdom.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+533:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i know it's the most commonly grown arabica and robusta.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+911:7,NA,NA,wow-dinan_et_al,i am not sure but vikings are norse seafarers and swedish.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+453:2,NA,NA,wow-controlled_t5,"it causes feelings of shame, deficiency, low self-esteem, and depression.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+500:4,NA,NA,wow-dodeca,"no i have not had to wear progressive lenses, but i have had contact lenses placed directly on the surface of my eye",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+123:7,NA,NA,wow-dinan_et_al,that's true. the gray wolf are related to the gray wolf.,0,0,0,"No, the response is unclear.",,2,-1
+546:6,NA,NA,wow-reference,"the six key areas of personal financial planning, as suggested by the financial planning standards board, are: corporate finance deals with the sources funding and the capital structure of corporations, the actions that managers take to increase the value of the firm to the shareholders, and the tools and analysis used to allocate financial resources.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+917:5,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that there is no set definition of a tiny house.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+166:5,NA,NA,wow-reference,yes i do it symoblises the recovery form four really bad fires that devastated the city,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+200:7,NA,NA,wow-dinan_et_al,yes he is. he is the best player in all time.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+609:2,NA,NA,wow-dinan_et_al,i have been to university of chicago. it holds the top ten positions in various rankings.,0,0,1,,,-1,-1
+289:3,NA,NA,wow-dodeca,they rechristened their business as a hamburger stand in the 40's.,0,0,1,,,-1,-1
+140:7,NA,NA,wow-t5,"i do not use cosmetics that are common but the most common cosmetics include lipstick, mascara, eye shadow, foundation, rouge, skin cleansers and skin lotions, shampoo, hairstyling products",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+250:3,NA,NA,wow-reference,"maybe so friend, maybe so... is it by it's repertoire of movements, or by it's historical period or place or origin or am i off. i can dance pretty great with sick beats, hopefully my knowledge isn't off",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+346:1,NA,NA,wow-reference,sure! divorce is essentially the termination of a marriage between two people.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+706:3,NA,NA,wow-dinan_et_al,it has three provinces and territories.,0,0,1,,,-1,-1
+812:2,NA,NA,wow-dodeca,it is a sports car manufactured by chevrolet.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+48:3,NA,NA,wow-reference,"oh yeah, i also like 7-up,5 a brand of lemon-lime flavor",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+953:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that birds come from birds bird birds and bird birds.",0,0,0,"No, the response is unclear.",,5,-1
+122:5,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's been around for a long time.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+150:1,NA,NA,wow-t5,"yes, i like to cook, i like to grill my food over an open fire and bake my food in various types of ovens.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+751:2,NA,NA,wow-dodeca,"yes, he is. since its inception, the daily syndicated version has featured alex trebek as host and johnny gilbert as announcer.",1,0,0,"Yes, I understand it.",,2,0
+686:9,NA,NA,wow-controlled_t5,yes it was originally introduced as a hardtop and convertible with the fastback version put on sale in august 1964.,0,0,1,,,-1,-1
+36:1,NA,NA,wow-t5,i do. i like watching shows on netflix.,0,0,1,,,-1,-1
+363:4,NA,NA,wow-dinan_et_al,"it was preceded by the gittern, the vihuela, and the vihuela.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,2
+719:8,NA,NA,wow-controlled_t5,"yes it is, wisconsin is second to michigan in the length of its great lakes coastline",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+555:1,NA,NA,wow-dinan_et_al,"yes, it's a great sport. it's a great sport. it's a great sport.",0,0,0,"No, the response is unclear.",,5,-1
+445:1,NA,NA,wow-reference,yes! i'm a horse trainer! i use a variety of practices that teach horses to perform behaviors when asked. i love my job. horses are such smart animals!,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+316:6,NA,NA,wow-reference,super duper cold in the winter! north dakota weathered the great recession in the early 21st century because of all the oil the state produced at that time.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+725:6,NA,NA,wow-reference,"that is difficult to say, but it came from the lute family.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+5:3,NA,NA,wow-reference,"yes, that's true because the trademark name of budweiser is own by the czech beer maker, budweiser budvar",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+15:4,NA,NA,wow-t5,i think he was a goodwill. he was ranked number 25 in 2002.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+641:5,NA,NA,wow-controlled_t5,some studies have cast doubt on the reason for this fear.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+945:5,NA,NA,wow-dodeca,hasbro's transformers toyline was promoted through both a comic book by marvel comics and an animated series produced by sunbow productions,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+119:1,NA,NA,wow-controlled_t5,children and adolescents who attend summer camp are known as campers,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+456:1,NA,NA,wow-controlled_t5,"yes, it is a mental disorder where people feel the need to check things repeatedly",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+309:8,NA,NA,wow-t5,"i really like charles thomson. he is from scotland. the name rose comes from french, which is the name of a latin word.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+153:8,NA,NA,wow-t5,i would like to be a part of a company that aims to price assets based on their risk level and their expected rate of return.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+17:4,NA,NA,wow-reference,my iguanas have teeth but they have never bitten me. i don't think it would hurt terribly because mine are small. iguanas can vary in length though.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+83:5,NA,NA,wow-reference,"well they can be made with different types of fillings including beef, pork, chicken and various types of seafood.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+944:7,NA,NA,wow-controlled_t5,rock music originated in the united states in the early 1950s,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+619:3,NA,NA,wow-dinan_et_al,"i am not sure, but i do know that it can be used to help with drugs, or drugs.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+392:6,NA,NA,wow-t5,yea i have.,1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+93:1,NA,NA,wow-dinan_et_al,i love going to the beach! it's also known as undeveloped or undiscovered beaches.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+2:2,NA,NA,wow-t5,"they are creative and unique, i like to think of them as a kind of genius.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+704:3,NA,NA,wow-controlled_t5,it is angling where an artificial fly is used to catch fish.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+365:1,NA,NA,wow-dodeca,"i haven't seen it, but i know it was set in 1757 during the french and indian war.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+911:3,NA,NA,wow-dodeca,"the old norse language, who raided and traded from their northern european homelands across wide areas of northern, central, eastern and western europe, during the late 8th to late 11th centuries.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+416:6,NA,NA,wow-t5,it is. it's been an event at the winter olympic games since 1936.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+44:5,NA,NA,wow-reference,each state has their own rules. some states even require that the couple live apart for several months before their divorce can be granted.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+869:5,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that he was a professional football team.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+122:7,NA,NA,wow-t5,it was the domain of women as baking and brewing were seen as women's work,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+180:3,NA,NA,wow-dodeca,traditional toppings are simply tomato sauce and shredded mozzarella cheese.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+619:7,NA,NA,wow-t5,"yes, i think so. i have experienced a lot of physical symptoms like excessive blushing, excessive sweating, trembling, palpitations, and nausea.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+418:6,NA,NA,wow-reference,i have not! it is so far to the northwest of north america i would be afraid of freezing to death,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+106:2,NA,NA,wow-dodeca,"i don't have any names, but i know there are more than seventy cat breeds recognized by various cat registries.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+736:2,NA,NA,wow-controlled_t5,"yoga is a group of physical, mental, and spiritual practices.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+321:7,NA,NA,wow-dinan_et_al,romeo and juliet was one of the most popular romeo and juliet.,0,0,0,"No, the response is unclear.",,3,-1
+5:1,NA,NA,wow-reference,"yes, and i love it! it's a filtered beer, and it comes in either draft or packaged forms",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+915:3,NA,NA,wow-dinan_et_al,"i am not sure, but i do know that it has been described as the science of extraterrestrial life.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+786:5,NA,NA,wow-reference,"i wouldn't be surprised if it had it's own block of zipcodes, as it is an independent city state, sovereign from the rest of rome.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+377:7,NA,NA,wow-dodeca,i didn't know that. they are very popular in zoos.,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+733:5,NA,NA,wow-t5,"yes, kung fu panda is an american computer-animated action comedy martial arts film produced by dreamworks animation and distributed by paramount pictures.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+436:1,NA,NA,wow-t5,"i do! i love to swim, i'm sure you can swim with your natural buoyancy.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+111:1,NA,NA,wow-dinan_et_al,that's awesome! it's a beautiful beauty show! it's a large-sized beauty!,1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+877:2,NA,NA,wow-dodeca,it's great. it's a city in the u. s. state of texas.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+843:6,NA,NA,wow-controlled_t5,"it is, the route changes each year, but the format stays the same, with the appearance of time trials, the passage through the mountain chains of the pyrenees and the alps, and the finish on the champs-élysées in paris.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+11:5,NA,NA,wow-reference,"well, new york is a very powerful city, known for their culture, financial and media, so they have a lot of influence on commerce, research, entertainment, technology, education, politics and sports around the world. so plenty, plenty to do!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+306:4,NA,NA,wow-dinan_et_al,"no, i have not, but i do know that it is often used in gymnastics and cheerleading.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+151:3,NA,NA,wow-dinan_et_al,"i eat abdominal pain, bloating, and nausea.",0,0,0,"No, the response is unclear.",,4,-1
+507:7,NA,NA,wow-reference,yes. the string causes the soundboard and sound box to vibrate,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+261:3,NA,NA,wow-t5,"alexander mcqueen is great, he was founded in 1992",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+148:3,NA,NA,wow-dinan_et_al,"i like to paint, sponges, and airbrushes.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+162:1,NA,NA,wow-dinan_et_al,"i love santa fe, the capital of santa fe.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+865:4,NA,NA,wow-t5,"i usually hike for a few hours. i do not hike for long, but i do like to hike in a single day.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+776:5,NA,NA,wow-t5,the breed was originally named after the german shepherd and was first breed in 1899,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+772:2,NA,NA,wow-dodeca,"a variety of imaging techniques such as x-ray radiography, ultrasound, computed tomography (ct), nuclear medicine including positron emission tomography (pet), and magnetic resonance imaging (mri)",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+635:5,NA,NA,wow-dodeca,"swimming features in a range of local, national, and international competitions, including every modern summer olympics.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+151:5,NA,NA,wow-controlled_t5,"yes, primary lactose intolerance occurs as the amount of lactase declines as people age.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+705:1,NA,NA,wow-controlled_t5,"onion is the most widely cultivated species of the genus ""allium""",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+109:9,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that modern technology was invented in the 1950's.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+791:4,NA,NA,wow-t5,i know that japan is divided into 47 prefectures.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+335:2,NA,NA,wow-t5,"no, i was not. i was seized by a criminal abductor to compel a relative, employer, law enforcement, or government to act, or refrain from acting, in a particular way, often under threat of serious physical harm to the hostage(s) after expiration of an ultimatum",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+144:2,NA,NA,wow-t5,"i like the atlantic ocean, i love the sands. i like laird hamilton, the big wave surfer.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+389:4,NA,NA,wow-reference,"not sure but a lot of famous writers, notable scientist & world leaders are orphans as well",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+98:7,NA,NA,wow-reference,"oh yes it is, it is basically being mass produced nowadays which caused a significant drop in price.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+596:4,NA,NA,wow-controlled_t5,"a farmer might own the farmed land or might work as a laborer on land owned by others, but in advanced economies, a farmer is usually a farm owner, while employees of the farm are known as farm workers, or farmhands.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+260:1,NA,NA,wow-dinan_et_al,i love honda's. they've been around since 2010.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+824:8,NA,NA,wow-reference,"not exactly, echolocation uses echoes to locate objects, but snakes just cannot take in sound waves without distortion as they are internal ears, so it passes through skin, it is like hearing through a wall",0,0,1,,,-1,-1
+359:5,NA,NA,wow-controlled_t5,a permanent marker is a container and a core of an absorbent material.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+338:8,NA,NA,wow-controlled_t5,clive exton adapted the pilot.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+485:5,NA,NA,wow-dinan_et_al,"i'm not sure, but they were built in 1953.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+846:3,NA,NA,wow-reference,i really like lucy in the sky with diamonds. i recently learned that the beatles were formed in liverpool in 1960!,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+302:2,NA,NA,wow-dodeca,"they can range from in length, including their tail.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+434:5,NA,NA,wow-t5,"he had three, including ""dirty mind"" which went platinum!",0,0,1,,,-1,-1
+271:6,NA,NA,wow-controlled_t5,"yes, dance can be categorized and described by its choreography, by its repertoire of movements, or by its historical period or place of origin.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+689:1,NA,NA,wow-controlled_t5,it's an entertainment franchise developed by hasbro,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+748:7,NA,NA,wow-t5,"i'm sure you'll have to be aware of the specialized equipment, units, and technology used in the manufacturing process. it's a lot of fun.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+81:1,NA,NA,wow-controlled_t5,pig farming is the raising and breeding of domestic pigs as livestock,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+85:5,NA,NA,wow-dinan_et_al,"i'm not sure, but i know it's called papillomavirus.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+493:2,NA,NA,wow-controlled_t5,it has been growing since the 1960s and 1970s,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+606:2,NA,NA,wow-controlled_t5,"the history of medicine, as practiced by trained professionals, shows how societies have changed in their approach to illness and disease from ancient times to the present.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+182:6,NA,NA,wow-t5,"yes, some beaches have man-made infrastructure like lifeguard posts, changing rooms, and showers. i think i'm just pretty sure i can get a few.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+90:1,NA,NA,wow-t5,"i do, i don't have enough vitamin c. it's also good for the disease scurvy, which is prevented by vitamin c-containing foods.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+179:2,NA,NA,wow-t5,"yes, they are! pollination is required to set the vanilla fruit from which the flavoring is derived.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+244:5,NA,NA,wow-t5,it is a major source of population growth and cultural change throughout the history of the united states.,0,0,1,,,-1,-1
+480:1,NA,NA,wow-t5,i have not read it. i love the romance of jane austen,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+542:4,NA,NA,wow-controlled_t5,"yes, it's a type of distilled alcoholic beverage made from fermented grain mash.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+222:2,NA,NA,wow-t5,"meat, poultry, and fish at high temperatures can lead to the formation of heterocyclic amines",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+871:3,NA,NA,wow-dinan_et_al,"no, i haven't, but i have seen a lot of horror films.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+580:3,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that pizza hut is a subsidiary of pizza hut.",0,0,1,,,-1,-1
+83:5,NA,NA,wow-t5,"a taco can be made with a variety of fillings, including beef, pork, chicken, seafood, vegetables, and cheese, allowing for great versatility and variety",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+81:1,NA,NA,wow-dodeca,"i know that pig farming is the raising and breeding of domestic pigs as livestock, and is a branch of animal husbandry.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+536:1,NA,NA,wow-dodeca,"david suchet stars as the eponymous detective, agatha christie's fictional hercule poirot.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+163:4,NA,NA,wow-reference,most sushi is prepared with brown or white rice. i've never seen anyone use noodles.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+692:6,NA,NA,wow-controlled_t5,"the first was a 1983 experimental hip hop 12-inch single ""cooky puss"", schellenbach dropped out and the beastie boys made a full transition to hip hop",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+222:8,NA,NA,wow-t5,"yes, when using a grill, heat transfer to the food is primarily through thermal radiation.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+726:1,NA,NA,wow-dinan_et_al,"i love meatloaf, it is my favorite dish. it is made from a loaf of ground meat.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+877:6,NA,NA,wow-t5,"from 2010 to 2016 dallas recorded the highest net domestic migration in the country, in excess of 300,000.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+526:8,NA,NA,wow-controlled_t5,"the ancient olympic games were held in olympia, greece, from the 8th century bc to the 4th century ad.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+455:9,NA,NA,wow-dodeca,i like the ones that can see in near darkness.,0,0,1,,,-1,-1
+158:4,NA,NA,wow-controlled_t5,growing pains are one of the most common causes of recurring pain in children,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+595:1,NA,NA,wow-dinan_et_al,i love the washington wizards. they are a professional basketball team based in washington.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+593:2,NA,NA,wow-controlled_t5,people are unable to control either the thoughts or the activities for more than a short period of time.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+225:6,NA,NA,wow-t5,"i did. the city had a population of 1,197,816.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,2
+166:3,NA,NA,wow-t5,oh yes they have a seal of a phoenix rising from ashes,1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,2
+467:7,NA,NA,wow-dodeca,i'm not sure. i do know that they have a lot of fatigue and long work hours.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+345:1,NA,NA,wow-t5,i do! they are so cute! they range in size from chameleons to geckos!,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+77:6,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that they are typically used as a game sport.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+8:3,NA,NA,wow-controlled_t5,"yes, it is associated with royalty, magic, mystery and piety.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+120:4,NA,NA,wow-reference,"whittling knives could be used, but they might be too small to cut everything. perhaps use a cleaver or chef's knife?",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+39:5,NA,NA,wow-dodeca,"yes, it is generally seen as a form of capital that produces public goods for a common good.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+946:1,NA,NA,wow-dodeca,"yes, it's the use of more than one language, either by an individual speaker or by a community of speakers.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+250:9,NA,NA,wow-reference,for sure! legit as it comes. you and your partner dance and not only do you enjoy it but socially and competitively enjoyed around the world. that one i'm stoked about personally,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+85:9,NA,NA,wow-reference,"it depends on the type of cancer, but some treatments could be surgery or chemotherapy, possibly radiation. it all depends on the stage of the cancer.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+114:4,NA,NA,wow-controlled_t5,"yes, and fashion designers work in a number of ways in designing clothing and accessories.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+699:5,NA,NA,wow-reference,"yes, they are all different sizes as well. they are native to europe and southwestern asia",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+449:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's cooked and preserved.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+543:5,NA,NA,wow-dodeca,i like to go to hermosa beach. it's a beachfront city in los angeles county.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+710:7,NA,NA,wow-controlled_t5,"yes, you can do it professionally by a hairdresser or at home.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+611:7,NA,NA,wow-t5,"yes, and they are also used to protect against visible and near-visible light or radiation.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+243:5,NA,NA,wow-dinan_et_al,there are over 6000 species of lizard.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+817:1,NA,NA,wow-dodeca,armadillos are new world placental mammals in the order cingulata,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+207:3,NA,NA,wow-t5,they were originally developed as fighting dogs.,0,0,1,,,-1,-1
+623:7,NA,NA,wow-dodeca,"the italian musical terms ""piano"" and ""forte"" indicate ""soft"" and ""loud"" respectively, in this context referring to the variations in volume (i. e., loudness) produced in response to a pianist's touch or pressure on the keys: the greater the velocity of a key press, the greater the force of the hammer hitting the strings, and the louder the sound of the note produced and the stronger the attack.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+736:6,NA,NA,wow-controlled_t5,jainism is an ancient indian religion.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+871:7,NA,NA,wow-controlled_t5,"it's about a group of demons and spirits, and members of the group suffer from demonic possession.",0,0,1,,,-1,-1
+109:1,NA,NA,wow-dodeca,"i don't, but i know that the piano is an acoustic, stringed musical instrument invented in italy by bartolomeo cristofori around the year 1700",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+892:7,NA,NA,wow-dodeca,"disc golf (also called ""frisbee golf"" or sometimes ""frolf"") is a flying disc sport in which players throw a disc at a target, and is played using rules similar to golf.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+139:7,NA,NA,wow-dodeca,meningitis is a rash caused by meningococcal bacteria.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+134:5,NA,NA,wow-dodeca,"i didnt know that the seattle area was previously inhabited by native americans for at least 4, 000 years before the first permanent european settlers",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+191:4,NA,NA,wow-dinan_et_al,"i'm not sure, but they are native to north america and north america.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+157:2,NA,NA,wow-controlled_t5,the skateboarding market is worth $4.8 billion annually with 11.08 million active skateboarders in the world.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+905:7,NA,NA,wow-dinan_et_al,"they were ranked 57th by the rolling stone magazine ""rolling stone"" magazine.",0,0,0,"No, the response is unclear.",,2,-1
+622:2,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that the laws of the lawyer can be traced to the jurisdiction.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+960:1,NA,NA,wow-reference,"i like it as well, vietamese cusine ecompasses the foods and beverages of vietnam",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+552:6,NA,NA,wow-t5,"reading is a means of language acquisition, communication, and of sharing information and ideas.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+22:3,NA,NA,wow-dinan_et_al,the nfl was formed in 1920.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+485:5,NA,NA,wow-t5,well there were 3 hundred hand-built polo white corvette convertibles produced for the 1953 model year.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+951:2,NA,NA,wow-controlled_t5,it is the oldest form of smoking.,0,0,1,,,-1,-1
+189:4,NA,NA,wow-reference,the skunk is historically used as an insult started 1841.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+50:7,NA,NA,wow-reference,"well, as a part of the waitstaff, you'll be receiving tips, which can either make up just a minor or even major part of your earnings. it's hard to say, as customs around tipping vary greatly from country to country.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+381:4,NA,NA,wow-dodeca,it is made from wheat flour.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+252:3,NA,NA,wow-controlled_t5,there is no industry-wide standard for the difference between super and mega yachts.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+181:7,NA,NA,wow-t5,"i like the ipx, it is the worlds largest supplier of athletic shoes and apparel and a major manufacturer of sports equipment",0,0,1,,,-1,-1
+944:7,NA,NA,wow-dodeca,"rock music is a broad genre of popular music that originated as ""rock and roll"" in the united states in the early 1950s",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+622:6,NA,NA,wow-t5,"yes, i'm sure it's a different job. in the united states, the compensation of the executive is distinguished by the forms it takes.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+724:5,NA,NA,wow-reference,oh okay i see. im not fond of the ground version of the meat so i dont like ground turkey either lol. i have never been to a butcher but i know that cuts of beef are initally seperated from the carcass during the butchering,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+279:1,NA,NA,wow-dinan_et_al,"i have not, but i know it's a british british bulldog.",0,0,0,"No, the response is unclear.",,4,-1
+79:5,NA,NA,wow-reference,"classical music is art music, it is rooted in traditions of western culture, in liturgical and secular senses",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+371:9,NA,NA,wow-controlled_t5,"yes, the factory in queens supplies the americas and the factory in hamburg supplies the rest of the world.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+359:1,NA,NA,wow-t5,"yes i do! it is a good way to learn to use graphite pencils, pen and ink, inked brushes, wax colored pencils, crayons, charcoal, chalk, pastels, various kinds of erasers, markers, styluses, various metals (such as silverpoint) and electronic drawing.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+502:2,NA,NA,wow-reference,it is the fifth most populous scity in new york,1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+787:4,NA,NA,wow-controlled_t5,yes. japanese whaling began around the 12th century.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+839:6,NA,NA,wow-reference,"surprisingly, for being the largest city in both the state of washington and the pnw region of north america, it didn't feel crowded like new york city would.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+384:1,NA,NA,wow-reference,"skateboarding seems very dangerous, especially when trying to perform tricks using a skateboard.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+890:5,NA,NA,wow-dodeca,"a professional or researcher is a psychologist and can be classified as a social, behavioral, or cognitive scientist.",0,0,1,,,-1,-1
+363:6,NA,NA,wow-reference,well i think the coolest are the electric guitars. they use one or more pickups to convert the string vibrations into electric signals. examples are the fender stratocaster or the gibson les paul,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+500:2,NA,NA,wow-t5,"yes, they are very comfortable and good for your eyes.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+800:1,NA,NA,wow-reference,"i have only surfed for a couple of times in my life, waves suitable for surfing are primarily found in the ocean",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+891:8,NA,NA,wow-controlled_t5,the raptors are a member club of the leagues eastern conference atlantic division,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+761:2,NA,NA,wow-t5,i want to go shopping for some things. i like that they offer a variety of goods and are able to sell them for money or other goods.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+257:3,NA,NA,wow-t5,i have a cat. i have a dog and i have a cat. i don't think i'm too scared. i just feel ashamed.,0,0,0,"No, the response is unclear.","No, not fully attributable.",3,-1
+427:7,NA,NA,wow-t5,i agree. it's hard to be sure that the youth isn't a problem. it's always trying to be better at it.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+157:4,NA,NA,wow-dodeca,"in 2016, it was announced that skateboarding will be represented at the 2020 olympic games in tokyo, japan.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+62:2,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's been around for a long time. it's been around for a long time.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+382:3,NA,NA,wow-controlled_t5,it's been an event at the winter olympic games since 1936.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+729:7,NA,NA,wow-t5,"i think so, and they have resorts, camps, hotels, and restaurants nearby.",0,0,1,,,-1,-1
+501:1,NA,NA,wow-t5,"yes, i know blackjack is a card game between usually several players and a dealer.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+205:3,NA,NA,wow-dinan_et_al,"well, it's a science that uses ultrasound, ultrasound, computed tomography, and mri's.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+926:4,NA,NA,wow-reference,i am not sure but i do know dana white is the president of the ufc,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+36:5,NA,NA,wow-reference,i'm really liking their originals. they started production of those in 2013.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+859:2,NA,NA,wow-reference,"is crazy. the protocols and practices of dating, and the terms used to describe it, vary considerably from country to country",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+436:1,NA,NA,wow-dinan_et_al,"yes, i love swimming! it's the natural buoyancy of the human body.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+844:2,NA,NA,wow-dodeca,it is an acronym for video game genre where the player controls the actions of a character (and / or several party members) immersed in some well-defined world.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+641:3,NA,NA,wow-controlled_t5,it's estimated that about 2–5% of the general population suffers from acrophobia.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+930:4,NA,NA,wow-t5,"i did not. in 2009, almost 3.5 million students attended public primary schools.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+482:4,NA,NA,wow-dodeca,"well, the term ""pizza"" was first recorded in a latin manuscript from the southern italy town of gaeta in lazio, on the border with campania.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+270:5,NA,NA,wow-dodeca,"i haven't tried baking fresh bread yet, but i'm sure it'll be good. heat travels through the dough and it transforms batters and doughs into baked goods.",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+511:7,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's a type of outdoor activity where you live.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+30:1,NA,NA,wow-controlled_t5,"yes, but you can play three-on-three, two-on-two, and one-on-one competitions.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+279:1,NA,NA,wow-dodeca,"i have never seen an english bulldog, but i know that bulldogs have a long standing association with british culture.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+402:2,NA,NA,wow-dodeca,progressive rock is one of my favorite genres.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+493:4,NA,NA,wow-dinan_et_al,"i've never been to the world cup, but i'm a fan of the fifa world cup.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+469:3,NA,NA,wow-dodeca,"i don't follow any other teams, but i know that basketball is a limited-contact sport played on a rectangular court.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+911:3,NA,NA,wow-controlled_t5,"they were mainly speaking the old norse language, who raided and traded from their northern european homelands across wide areas of northern, central, eastern and western europe, during the late 8th to late 11th centuries.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+606:8,NA,NA,wow-t5,"in 2010-2011, north america and europe did not produce enough sugar from sugar beets to meet overall demand for sugar",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+450:7,NA,NA,wow-dodeca,"you can also do bodybuilding, weightlifting, powerlifting, and strongman.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+365:7,NA,NA,wow-reference,i can really recall. i do know that the last of the mohicans received nearly universal praise and commercial success during its run in the box-office.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+593:2,NA,NA,wow-dodeca,people are unable to control either the thoughts or the activities for more than a short period of time.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+844:6,NA,NA,wow-dodeca,table role playing is where the participants assume the roles of characters and create stories.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+719:4,NA,NA,wow-dinan_et_al,it is the capital of texas,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+79:1,NA,NA,wow-controlled_t5,"the central norms of this tradition became codified between 1550 and 1900, which is known as the common-practice period.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+8:3,NA,NA,wow-dodeca,"according to surveys in europe and the u. s., purple is the color most often associated with royalty, magic, mystery and piety.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+8:3,NA,NA,wow-t5,"i do not know if it has any historical uses but i do know that it is associated with royalty, magic, mystery and piety.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+278:7,NA,NA,wow-dodeca,"well, individuals and corporations are directly taxable, and estates and trusts may be taxable on undistributed income.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+605:5,NA,NA,wow-reference,they were first described in 1768 by an austrian naturalist.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+333:3,NA,NA,wow-dodeca,"common activities include hand washing, counting of things, and checking to see if a door is locked.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+774:2,NA,NA,wow-controlled_t5,it was a comedy film directed by brian robbins.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+418:4,NA,NA,wow-t5,well the kayak was originally created for hunting and fishing.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+257:1,NA,NA,wow-reference,not at the moment. sometimes it is a normal temporary reaction to life events. i hope everything is ok for you!,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+109:5,NA,NA,wow-t5,"no, but the first fortepianos in the 1700s had a quieter sound and smaller dynamic range",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+8:5,NA,NA,wow-t5,"i don't know, but it is similar to violet but with its own wavelength on the visible spectrum of light.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+555:1,NA,NA,wow-dodeca,i know that dwyane tyrone wade jr. is an american professional basketball player for the cleveland cavaliers of the national basketball association,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+299:5,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's designed to connect to apple's apple's ipad.",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+289:1,NA,NA,wow-reference,"oh yeah the golden arches? richard and maurice mcdonald opened the first one in the 40's in san bernardino, california.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+770:9,NA,NA,wow-dodeca,i read that they have spines running down their backs to their tails,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+450:3,NA,NA,wow-controlled_t5,it's an inclusive term that describes all exercises devoted toward increasing physical strength.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+743:7,NA,NA,wow-reference,"well for one it also originated in the uk in the 60s and 70s, but my favorite parts of it are the distortion and overall loudness of the music.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+723:6,NA,NA,wow-controlled_t5,"north sea is a sea of the atlantic ocean located between great britain, scandinavia, germany, netherlands, belgium, and france.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+94:3,NA,NA,wow-controlled_t5,well her plots often explore the dependence of women on marriage in pursuit of favourable social standing and economic security.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+674:1,NA,NA,wow-t5,"i love butterflies, they are a great order of insects.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+468:7,NA,NA,wow-controlled_t5,"the rolling stones have three keyboardists, nicky hopkins, ian mclagan, billy preston and chuck leavell.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+760:2,NA,NA,wow-reference,"not really. it is usually for survival, sport, exercise or recreation",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+722:6,NA,NA,wow-t5,"i'm not sure, but i do know that immigration is beneficial both to the receiving and sending countries.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+24:4,NA,NA,wow-reference,"my friend lives in a place called guelph. canada is sparsely populated, most of its land is dominated by forest",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+8:7,NA,NA,wow-controlled_t5,it is a color between blue and red.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+409:8,NA,NA,wow-controlled_t5,it is made from a smooth semi-solid foam that is solid at very low temperatures.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+497:9,NA,NA,wow-t5,"it was built during the 12th century, due to an inadequate foundation on ground too soft on one side to support the structure's weight.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+307:5,NA,NA,wow-t5,"kesha rose sebert is the real name. she was born march 1, 1987",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+63:7,NA,NA,wow-t5,it was a very early color. it was associated with the pope and the golden keys of the kingdom.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+339:2,NA,NA,wow-dodeca,"they apply makeup and prosthetics for theatrical, television, film, fashion, magazines and other similar productions including all aspects of the modeling industry.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+872:2,NA,NA,wow-t5,insects are considered to be the most common. 1.3 million species are known to be in our environment.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+109:7,NA,NA,wow-dinan_et_al,"i am not sure, but i do know that there are a lot of different types of music.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+709:8,NA,NA,wow-reference,"fennel, hot sauce, italian spices to name a few. interestingly, naples is where the modern pizza was invented!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+704:9,NA,NA,wow-dodeca,casting a nearly weightless fly requires casting techniques significantly different from other forms of casting.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+287:2,NA,NA,wow-controlled_t5,the terms pop music and popular music are often used interchangeably,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+39:3,NA,NA,wow-dodeca,"a business model describes the rationale of how an organization creates, delivers, and captures value, in economic, social, cultural or other contexts.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+688:3,NA,NA,wow-controlled_t5,it's produced by sharp entertainment and aired on tlc in the us and canada,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+328:3,NA,NA,wow-reference,i do! i play traditional irish music using a violin with a hallow wooden body.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+343:1,NA,NA,wow-dodeca,"i'm not really good at singing, but i do know that it can be sung with or without accompaniment by musical instruments.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+523:7,NA,NA,wow-dodeca,"the components of rap include content, flow, and delivery.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+476:2,NA,NA,wow-t5,he is a movie. he is the director of a walk to remember.,0,0,0,"No, the response is unclear.",,4,-1
+526:6,NA,NA,wow-reference,they did! the olympic games were held in olympia greece from 8 bc to 4 ad,1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+704:3,NA,NA,wow-reference,"fly fishing itself is an angling method in which you do put an artificial ""fly"" on the end to catch fish with.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+754:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i know wedding cake is served at wedding receptions.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+685:6,NA,NA,wow-controlled_t5,there is no established formulation of principles of faith that are recognized by all branches of judaism,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+481:2,NA,NA,wow-dodeca,"del taco success led to two in barstow, one in needles, and a fifth restaurant in corona.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+804:3,NA,NA,wow-controlled_t5,such disorders may be diagnosed by a mental health professional.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+579:5,NA,NA,wow-t5,"i do know that the word casino is of italian origin and it means a small country villa, summerhouse, or social club",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+118:6,NA,NA,wow-controlled_t5,"the family consists of the extinct megalania, the komodo dragon, and the crocodile monitor.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+936:3,NA,NA,wow-dodeca,cultural connotations of kissing vary widely.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+823:4,NA,NA,wow-controlled_t5,"yes, you could receive formal training from an institution.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+185:7,NA,NA,wow-reference,"if you are looking for more agressive, then trash metal bands like metallica, megadeth, and anthrax might be a better choice.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+791:6,NA,NA,wow-t5,"yes, they have hokkaido as the northernmost prefecture.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,2
+848:3,NA,NA,wow-reference,i do the same thing! i always look up unfamiliar words when reading as reading is a means of language acquisition and building up your vocabulary. my mother started me reading when i was very young and it became a lifelong passion.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+87:2,NA,NA,wow-dinan_et_al,they formed their first album in 1990.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,2
+936:1,NA,NA,wow-t5,i have! it's like touching someone's lips against another person or object,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+242:3,NA,NA,wow-reference,i like the granny smith apples. picking them is a seasonal activity for my family!,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+299:5,NA,NA,wow-controlled_t5,"it powers many of the company's mobile devices including the iphone, ipad, and ipod touch.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,3
+578:2,NA,NA,wow-reference,i got to say the real old ones bore me. some as old as 1830's in europe,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+951:2,NA,NA,wow-t5,i have done it for about a decade. it's the oldest form of smoking.,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+243:9,NA,NA,wow-reference,they certainly do. they can change colour to adapt to their surroundings.,1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+53:2,NA,NA,wow-dinan_et_al,"they have a song called ""#selfie"" which was released in 1991.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+312:3,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know he's known as ""father of hollywood"".",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+640:2,NA,NA,wow-reference,"the eye perceives blue when observing light with a dominant wavelenghth of approx, 450 and 495 nanometers",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+449:4,NA,NA,wow-t5,i am not sure but pork is eaten freshly cooked and preserved.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+59:2,NA,NA,wow-dodeca,santa fe is the oldest city in the state and the oldest state capital city in the united states.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+303:6,NA,NA,wow-t5,neapolitan pizza is made with tomatoes and mozzarella.,1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+705:3,NA,NA,wow-dodeca,"yes! i love the garlic, shallot, leek, chive, and chinese onion.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+572:5,NA,NA,wow-dodeca,it features characters and settings developed by lauren faust,1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+432:5,NA,NA,wow-reference,"yes, those three berries i listed above are in that category. they are classified in the section cyanococcus.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+891:6,NA,NA,wow-dinan_et_al,yes he is. he is a player who played the player.,0,0,0,"No, the response is unclear.",,4,-1
+477:5,NA,NA,wow-reference,"we are lesbian parents, but our children are grown ups now. we've been in a romantic relationship for 22 years, but only married for 16.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+939:1,NA,NA,wow-reference,i used to worry about future events and get anxiety but as i got older i care less. do you take medication for it?,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+787:6,NA,NA,wow-reference,yeah absolutely. not only do their whaling grounds extend out of their borders but thei hunt for fish like tuna does as well.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+89:2,NA,NA,wow-dodeca,i love the world's oldest national broadcasting organisation and the largest broadcaster in the world by number of employees.,1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+352:2,NA,NA,wow-t5,yes. john chambers was an american make-up artist and prosthetic makeup expert.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+849:3,NA,NA,wow-controlled_t5,it is a musical instrument that makes sound by way of a vibrating string or strings stretched between two points.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+23:8,NA,NA,wow-t5,"nintendo is one of the world's largest video game companies by market capitalization, creating some of the best-known and top-selling video game franchises,",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+98:5,NA,NA,wow-t5,"i haven't, i've never heard of that recipe. i'm sure i'd be able to do that. it's a bit pricey but it's worth it!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+190:7,NA,NA,wow-controlled_t5,attachment theory is when infants become attached if they are provided with any caregiver,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+321:7,NA,NA,wow-dodeca,it was also one of his most frequently performed plays,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+341:2,NA,NA,wow-dinan_et_al,"thursday was named after the norse god of thunder, thor.",0,0,1,,,-1,-1
+881:3,NA,NA,wow-dodeca,theatrical and participatory dance,1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+321:5,NA,NA,wow-dinan_et_al,shakespeare is one of the most powerful shakespeare's most powerful shakespeare.,0,0,0,"No, the response is unclear.",,5,-1
+633:1,NA,NA,wow-controlled_t5,"the steelers lost their most recent championship appearance in the super bowl xlv on february 6, 2011.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+111:1,NA,NA,wow-reference,wow congratulations! i've never seen any but know they are multi-tiered with local competitions feeding into larger ones,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+935:1,NA,NA,wow-dodeca,"i don't have any dogs, but i do have a leavitt bulldog, which is a late 20th century re-creation of the old english bulldog.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+156:4,NA,NA,wow-reference,they were established in the year of 1995,1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+942:2,NA,NA,wow-controlled_t5,a veterinarian can do treatments of illness or surgery in animals.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+180:1,NA,NA,wow-dodeca,"new york-style pizza is pizza made with a characteristically large hand-tossed thin crust, often sold in wide slices to go.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+955:3,NA,NA,wow-reference,"it's also the name of cities in ontario and illinois. my favorite woodstock, though, is the cartoon bird from the peanuts comic.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+942:2,NA,NA,wow-t5,"i like that i can be a veterinarian but in some cases, it's only for those professionals who are registered as a veterinarian.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+297:3,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that they have a variety of pit bull characteristics.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+469:3,NA,NA,wow-t5,"i don't know much about basketball, but i know it's a limited contact sport played on a rectangular court.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+242:7,NA,NA,wow-dodeca,they have domesticated animals and some wild species that are docile enough to touch and feed.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+83:5,NA,NA,wow-dodeca,"a taco can be made with a variety of fi__unk__, including beef, pork, chicken, seafood, vegetables, and cheese",0,0,1,,,-1,-1
+365:3,NA,NA,wow-t5,it was set in 1757 during the french and indian war.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+709:2,NA,NA,wow-t5,"i'm not sure but many chains, cafes, and fast food outlets offer pizza!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+724:3,NA,NA,wow-t5,i have! i've tried using turkey with beef. the meat becomes more tender as distance from hoof and horn increases.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+777:7,NA,NA,wow-t5,well camping is a key part of many youth organizations around the world.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+351:4,NA,NA,wow-dodeca,"i'm not sure how many different breeds there are, but there are some that are domesticated and some that are feral.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+10:2,NA,NA,wow-t5,"mick jagger, keith richards, bill wyman, and charlie watts were in the band.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+364:1,NA,NA,wow-dodeca,"i love the first date, where an effort is made to ask, plan, and organize some sort of social activity, with the goals ranging from forming a friendship, finding a romantic or sexual partner for a short period, to finding a long-term spouse.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+524:7,NA,NA,wow-controlled_t5,cognitive-behavioral therapy is the most widely used practice for improving mental health.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+839:4,NA,NA,wow-controlled_t5,"seattle is a significant center for the painting, sculpture, textile and studio glass.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+255:5,NA,NA,wow-dodeca,yes they do. they also have ornate helmets and gloves to assume robot personas in most of their public appearances.,0,0,1,,,-1,-1
+165:1,NA,NA,wow-dodeca,"hiking is the preferred term, in canada and the united states, for a long, vigorous walk, usually on trails (footpaths), in the countryside,",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+955:3,NA,NA,wow-dodeca,woodstock is a fictional character in charles m. schulz's comic strip peanuts.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+930:4,NA,NA,wow-dinan_et_al,"i'm not really sure, but i do know that elementary school is 3. 3 million students attended elementary school.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+159:6,NA,NA,wow-reference,yes - but i think it is important that there is a same theme through online as well as more traditional channels - multi-faceted marketing,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+580:5,NA,NA,wow-dodeca,"i've never had dominos, but i know that pizza delivery is common in some parts of the world.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+761:2,NA,NA,wow-controlled_t5,a retailer or a shop is a business that presents a selection of goods and offers to trade or sell them to customers for money or other goods.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+830:4,NA,NA,wow-t5,"i think it was. by the late 1980s, the digital media had gained a larger market share. so it's been a while since vinyl was still popular!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+580:5,NA,NA,wow-dinan_et_al,"no, i haven't, but i do know that pizza delivery is common in many parts of the world.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+598:2,NA,NA,wow-t5,she had acted in many dramas and dramas.,0,0,1,,,-1,-1
+10:8,NA,NA,wow-reference,mick taylor left in 1974 and was replaced by ronnie wood in '75.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+609:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that it's also known as the booth school of medicine.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+15:6,NA,NA,wow-controlled_t5,hawking is an honorary fellow of the royal society of arts,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+587:1,NA,NA,wow-t5,"yes i have. i have competed in a combined event, which consists of five events.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+307:7,NA,NA,wow-controlled_t5,her debut album animal topped the charts in several countries,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+381:2,NA,NA,wow-dinan_et_al,i love pita bread! it's a french french french word.,0,0,0,"No, the response is unclear.",,4,-1
+886:2,NA,NA,wow-controlled_t5,"childhood schizophrenia is characterized by hallucinations, disorganized speech, delusions, catatonic behavior and ""negative symptoms"". it is usually onset before 13 years of age.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+575:5,NA,NA,wow-dodeca,"for example, an action game can be classified into many subgenres such as platform games and fighting games",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+149:8,NA,NA,wow-controlled_t5,it is the oldest living religion in the world.,0,0,1,,,-1,-1
+767:1,NA,NA,wow-dinan_et_al,they are mammals that have a leathery armour shell.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+907:3,NA,NA,wow-reference,last year. i only read news online since i have no time. what is your favorite book?,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+726:7,NA,NA,wow-dodeca,"american meatloaf has its origins in scrapple, a mixture of ground pork and cornmeal served by german-americans in pennsylvania since colonial times.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+150:1,NA,NA,wow-dodeca,"i do like to cook, especially grilling food over an open fire.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+6:1,NA,NA,wow-dinan_et_al,it was founded in 1873 by german immigrants adolph coors and jacob schueler.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+168:6,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know he's the world's richest city in the world.",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+669:7,NA,NA,wow-dodeca,"the term ""ethical vegan"" is often applied to those who not only follow a vegan diet but extend the philosophy into other areas of their lives",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+14:7,NA,NA,wow-dodeca,"haha! well, the domestic dog is a member of the genus ""canis"", which forms part of the wolf-like canids, and is the most widely abundant terrestrial carnivore.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+813:2,NA,NA,wow-reference,i've had it before but i prefer it with vegetables.,1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+671:5,NA,NA,wow-t5,"well, you should breastfeed your child. it is very healthy. if you want to get a baby to have a healthy diet, breastfeeding is a good idea.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+308:3,NA,NA,wow-dodeca,it became the world's most popular television program among all genres in 2006 and 2007,0,0,1,,,-1,-1
+754:4,NA,NA,wow-controlled_t5,"yes, it is the traditional cake served at wedding receptions",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+874:7,NA,NA,wow-reference,i'd have to put swan lake high up on my favorite list too. it is so well choreographed and is usually performed by top notch trained ballet dancers.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+611:1,NA,NA,wow-controlled_t5,glasses are typically used for vision correction,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+949:1,NA,NA,wow-dodeca,i've never been on a telenovela. it's a limited-run television serial drama or soap opera produced primarily in latin america.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+222:4,NA,NA,wow-dodeca,direct heat grilling can expose food to temperatures often in excess of.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+543:7,NA,NA,wow-dodeca,i think it's cheap because it's a beachfront city.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+511:3,NA,NA,wow-dinan_et_al,"i like to take a tent, but i like to go to the outdoor activity.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+635:5,NA,NA,wow-dinan_et_al,"well, in the summer olympics, swimming is a formalized sport.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+587:7,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that the history of running began in ancient greece.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+5:1,NA,NA,wow-controlled_t5,"yes, it is a filtered beer available in draft and packaged forms",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+383:6,NA,NA,wow-dinan_et_al,he is known as the state capital of colorado.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+23:2,NA,NA,wow-dodeca,"nintendo's 8-bit video game console, the nintendo entertainment system (nes), known in japan as the or",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+506:6,NA,NA,wow-dodeca,"yes, he won seven times.",0,0,1,,,-1,-1
+371:9,NA,NA,wow-dodeca,"i'm not sure, but the factory in queens supplies the americas and the factory in hamburg supplies the rest of the world.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+892:7,NA,NA,wow-dinan_et_al,"yes, it is played by a disc sport.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+830:4,NA,NA,wow-dodeca,"well, by the late 1980s, digital media, in the form of the compact disc, had gained a larger market share, and the vinyl record left the mainstream around 1991.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+826:6,NA,NA,wow-reference,yes. there is. a partnership may be binding by a contract,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+597:1,NA,NA,wow-dinan_et_al,i'm sorry to hear that. she's a great deal of her family. she's a great musician.,1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+307:5,NA,NA,wow-reference,"kesha rose sebert and she was born in march 1, 1987",1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+182:6,NA,NA,wow-reference,yeah they are left alone for the most part. i like them because there are no man made structures like lifeguard posts.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+23:4,NA,NA,wow-dodeca,"it was founded in 1889 by fusajiro yamauchi, it originally produced handmade hanafuda playing cards",0,0,1,,,-1,-1
+810:1,NA,NA,wow-dinan_et_al,"i love sci-fi, sci fi, science fiction, science fiction, science fiction, science fiction, science fiction, sci-fi, and sci fi.",0,0,0,"No, the response is unclear.",,5,-1
+319:6,NA,NA,wow-reference,"not sure exactly where. i also love chops. pork, lamb, veal. i like them grilled also or baked.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+941:2,NA,NA,wow-dinan_et_al,i've been to the capital of texas. it's the capital and capital of texas.,0,0,0,"No, the response is unclear.",,5,-1
+926:2,NA,NA,wow-dodeca,the ultimate fighting championship (ufc) is owned and operated by parent company wme – img.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+280:1,NA,NA,wow-dodeca,"i love pizza topped with vegetables, meats, and condiments.",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+211:3,NA,NA,wow-controlled_t5,they thrive in low-oxygen water conditions that would kill most other fish.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+351:4,NA,NA,wow-dinan_et_al,i have a small one. they live in the wild wild and live feral horses.,0,0,0,"No, the response is unclear.",,5,-1
+617:5,NA,NA,wow-reference,they are pretty small and can fit in a purse. the poodle descended from a german water dog or a french barbet breed.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+917:5,NA,NA,wow-reference,"i am not sure as there is no set definition right now o what a tiny house is however, a residential structure under is generally accepted to be a tiny home.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+414:3,NA,NA,wow-controlled_t5,it was in the late 18th and early 19th centuries that the nation's first novels were published.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+79:5,NA,NA,wow-t5,"classical music is art music produced or rooted in the traditions of western culture, including both liturgical (religious) and secular music.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+611:7,NA,NA,wow-controlled_t5,they are. some types of safety glasses are used to protect against visible and near-visible light or radiation.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+346:3,NA,NA,wow-dodeca,"divorce laws vary considerably around the world, but in most countries divorce requires the sanction of a court or other authority in a legal process.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+153:10,NA,NA,wow-t5,"i am not sure, but i do know that finance can be broken into three sub-categories: public, corporate and personal.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+244:5,NA,NA,wow-controlled_t5,it has been a major source of population growth and cultural change throughout the history of the us.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,3
+274:6,NA,NA,wow-controlled_t5,yes they are similar to scotch pancakes or drop scones,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+459:3,NA,NA,wow-reference,the term automotive is from greek- autos self and latin- motivus which is motion.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+320:3,NA,NA,wow-controlled_t5,comic books were first popularized in the united states during the 1930s.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+765:5,NA,NA,wow-t5,"there is a lot of research that shows that drinking small quantities of alcohol reduces the risk of heart disease, stroke, diabetes mellitus, metabolic syndrome and early death",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+638:2,NA,NA,wow-reference,"i'm a big fan of lasagna! although i'm not sure how authentically italian that is, as how the recipes is the united states how been changed and whatnot.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+278:1,NA,NA,wow-controlled_t5,"it contrasts with farms operated as collectives, trusts, non-family corporations or in other institutionalised forms.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",2,2
+12:7,NA,NA,wow-controlled_t5,"well, professional american football has a long and complicated history in los angeles, which is the center of the second-largest media market in the united states.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+195:5,NA,NA,wow-controlled_t5,"the les paul was designed by gibson president ted mccarty, factory manager john huis, and their team, along with guitarist/inventor les paul.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+111:7,NA,NA,wow-reference,yes! it began in the late 1970s when women began to enter bodybuilding competitions.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",3,2
+800:3,NA,NA,wow-dinan_et_al,"the term surfing refers to the act of riding a wave, regardless of whether the wave is ridden with a board or without a board.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+411:3,NA,NA,wow-dinan_et_al,it's a form of social anxiety. 90 % of people suffer from social anxiety.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+11:9,NA,NA,wow-controlled_t5,"yes, there are five boroughs in new york, queens, manhattan, the bronx, and staten island!",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,3
+225:4,NA,NA,wow-dodeca,"i'm not sure, but i do know that texas is geographically located in the south central region of the country.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+724:5,NA,NA,wow-controlled_t5,"cuts of beef are first divided into primal cuts, pieces of meat initially separated from the carcass during butchering.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+83:3,NA,NA,wow-controlled_t5,"the origins of the taco are not precisely known, and etymologies for the culinary usage of the word are generally theoretical.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+926:4,NA,NA,wow-t5,dana white serves as president of the ufc.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+324:1,NA,NA,wow-t5,"i have, i like their burgers, fries, and shakes.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+21:3,NA,NA,wow-t5,"cancun is a nice place. there are even ""cruises to nowhere"" or ""nowhere voyages"" where the ship makes 2–3 night round trips without any ports of call.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+837:7,NA,NA,wow-dodeca,"yoga sutras of patanjali date from the first half of the 1st millennium ce, but only gained prominence in the west in the 20th century.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+402:2,NA,NA,wow-reference,"i like progressive rock a ton, i'm a spastic person so i like music that changes it up constantly, you may hear 100 different motifs in a progressive rock song vs a traditional rock song which may have 1 or 2",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+865:6,NA,NA,wow-dinan_et_al,"i am not sure, but i do know that there are a lot of variations of the diet, including eggs and dairy products.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+341:2,NA,NA,wow-reference,"the name comes from an old english meaning ""thor's day."" it was named after the norse god of thunder, thor.",0,0,1,,,-1,-1
+434:3,NA,NA,wow-reference,"yes, i vividly remember that he was known for his eclectic work, flamboyant stage presence, extravagant dress and makeup!",0,0,1,,,-1,-1
+193:6,NA,NA,wow-t5,"i love crabs too, they are covered with a thick exoskeleton and are armed with a single pair of chelae (claws)",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+63:7,NA,NA,wow-controlled_t5,it was also used to mark heretics in the early christian church.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+365:3,NA,NA,wow-dodeca,it was set in 1757 during the french and indian war.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+257:5,NA,NA,wow-dinan_et_al,"no, i don't but i do know they were originally used as fighting dogs.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+272:4,NA,NA,wow-reference,"well on march 26, 2013, they released their second studio album, ""what you don't see"", which debuted at number 46 on the ""billboard"" 200 chart in the u.s.",0,0,1,,,-1,-1
+938:1,NA,NA,wow-dinan_et_al,i'm a bank teller. i'm a bank teller. i've been working for 10 years now. i'm a bank teller.,0,0,0,"No, the response is unclear.",,4,-1
+99:9,NA,NA,wow-controlled_t5,"yes, and a person who travels and resides in a foreign country would be regarded as illiterate.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+926:6,NA,NA,wow-reference,he is a man who has been president since 2001. i am not sure of his age.,0,0,1,,,-1,-1
+169:5,NA,NA,wow-controlled_t5,scarlett o'hara is the strong-willed daughter of a plantation owner. she's a strong-willed girl.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",4,4
+217:4,NA,NA,wow-t5,i'm really working on child laundering -- that is a scheme whereby intercountry adoptions are effected by illegal and fraudulent means.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+363:6,NA,NA,wow-dodeca,an electric guitar is a guitar that uses one or more pickups to convert the vibration of its strings into electrical signals.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+724:3,NA,NA,wow-reference,as in put turkey in place of beef or the other way around? i know that the cows legs and neck are the toughest part,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+777:5,NA,NA,wow-reference,generally participants leave developed areas to camp in the fall or spring when its cooler.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+301:4,NA,NA,wow-reference,in some areas a bank teller is known as a cashier or customer representative.,1,0,0,"Yes, I understand it.",,2,0
+335:2,NA,NA,wow-reference,"yes, i thought i would never see the light of the day again. as i am under threat of serious physical harm",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+826:4,NA,NA,wow-dinan_et_al,"i am not sure, but i do know a lot about community organizations.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+487:4,NA,NA,wow-controlled_t5,in severe cases people may become unable to leave their homes.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+323:4,NA,NA,wow-dinan_et_al,"they have been selectively bred for various behaviors, sensory capabilities, and physical attributes.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+255:5,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that they're also used for their arms and acousters.",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+72:6,NA,NA,wow-dodeca,"i have not watched the winter olympics, but i do know that snowboarding has been around since 1966 alone over half a million snurfers were sold.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+109:7,NA,NA,wow-reference,"i dont think, in principle, the word ""fortepiano"" can designate any piano dating from the invention of the instrument by bartolomeo cristofori around 1700",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+406:6,NA,NA,wow-t5,"yes, christmas day is a public holiday in many of the world's nations, is celebrated religiously by a majority of christians, as well as culturally by many non-christians, and forms an integral part of the holiday season centered around it.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+565:3,NA,NA,wow-controlled_t5,"horses in the subspecies caballus are domesticated, but some domesticated populations live in the wild as feral horses.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+183:4,NA,NA,wow-reference,they ate the greens in salads. that's weird right? now the most commonly eaten part is the taproot,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+871:7,NA,NA,wow-t5,"i don't think i've seen it, i know it's about a group of demons and spirits who are trying to get a hold of a group.",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+574:2,NA,NA,wow-controlled_t5,miguel de cervantes was the first novelist of the modern era.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+357:1,NA,NA,wow-t5,"i think it's a shame that they are able to keep stray, lost, abandoned or surrendered animals, mostly dogs and cats, and sometimes sick or wounded wildlife",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+384:3,NA,NA,wow-t5,skateparks have been constructed specifically for use by skateboarders since the 1970s.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+946:1,NA,NA,wow-reference,"you know... really do. for an individual speaker to speak more than one language, it opens the door for so much.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+177:4,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that there are so many different types of spices, herbs, and vegetables.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+313:5,NA,NA,wow-controlled_t5,"well traditional commercial pc and console games are usually funded by a publisher, so it can take several years to get it finished",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+858:6,NA,NA,wow-controlled_t5,traditional macaroni and cheese is a casserole baked in the oven.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+513:7,NA,NA,wow-controlled_t5,"yes, it can. it is important to remember that the effects of color vary between people",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,3
+232:7,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that dogs are uniquely attuned to human behavior.",0,0,1,,,-1,-1
+179:2,NA,NA,wow-controlled_t5,yes! pollination is required to set the vanilla fruit,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,4
+472:6,NA,NA,wow-controlled_t5,"in early 2011 he released an extended play called ""no"".",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+961:9,NA,NA,wow-reference,"yes, i caught them myself. it was not difficult to do. hermit crabs have a spirally curved abdomen, which is quite soft.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+701:3,NA,NA,wow-t5,i love the shawshank redemption.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+288:6,NA,NA,wow-t5,well executed vegan diets are regarded as appropriate for all stages of life including infancy and pregnancy.,0,0,1,,,-1,-1
+382:5,NA,NA,wow-dodeca,"as of 1994, there were estimated to be 55 million people worldwide, who engaged in alpine skiing.",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+804:5,NA,NA,wow-t5,they usually provide various types of treatments for mental disorders,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+843:4,NA,NA,wow-t5,the race is usually held in the month of july.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+218:4,NA,NA,wow-dodeca,"in professional bodybuilding, bodybuilders appear in lineups and perform specified poses",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+941:2,NA,NA,wow-t5,i haven't been to baton rouge but i'm sure it is the capital of louisiana.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+761:2,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that a lot of people sell goods and goods to customers.",1,0,0,"Yes, I understand it.","No, not fully attributable.",3,3
+951:8,NA,NA,wow-reference,i think it grew here naturally. it was used by the native americans long before it was used by other europeans.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+884:6,NA,NA,wow-controlled_t5,he is considered the king of latin pop.,0,0,1,,,-1,-1
+905:7,NA,NA,wow-reference,"i think they had 4 or 6 im not sure, the band was ranked 57th by ""rolling stone"" magazine",1,0,0,"Yes, I understand it.","No, not fully attributable.",2,2
+322:3,NA,NA,wow-controlled_t5,"well kentucky is known for horse racing, bourbon distilleries, moonshine, coal, automobile manufacturing, tobacco, bluegrass music, college basketball, and kentucky fried chicken",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+846:3,NA,NA,wow-dodeca,i love the beatles! they were an english rock band formed in liverpool in 1960.,1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+704:7,NA,NA,wow-dinan_et_al,it can be done in fresh or salt water.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+310:4,NA,NA,wow-dinan_et_al,atlanta is the capital of the state's capital.,0,0,0,"No, the response is unclear.",,4,-1
+205:7,NA,NA,wow-dodeca,medical imaging seeks to reveal internal structures hidden by the skin and bones,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+518:7,NA,NA,wow-t5,"a backpack, a compass, a camera, a flashlight, a good flashlight and a lot of gear",1,0,0,"Yes, I understand it.","No, not fully attributable.",4,4
+267:4,NA,NA,wow-dodeca,vermont is the second smallest by population and the sixth smallest by area of the 50 u. s. states.,1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+796:6,NA,NA,wow-dodeca,"a fictionalized account of the sinking of the rms ""titanic"", it stars leonardo dicaprio and kate winslet",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+23:6,NA,NA,wow-t5,"nintendo is one of the world's largest video game companies by market capitalization, creating some of the best-known and top-selling video game franchises, such as ""mario"", ""the legend of zelda"", and ""pokémon""",1,1,0,"Yes, I understand it.","Yes, fully attributable.",5,5
+663:6,NA,NA,wow-reference,"yes, they live in all four provinces of pakistan, but have also gone all over the world.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
+964:7,NA,NA,wow-dodeca,"romaine is a common salad green, and is the usual lett__unk__ used in caesar salad.",0,0,1,,,-1,-1
+546:6,NA,NA,wow-dinan_et_al,finance deals with the capital of the state capital of the state.,0,0,0,"No, the response is unclear.",,5,-1
+254:5,NA,NA,wow-reference,"i.t. it has implications for workforce development, national security concerns and immigration policy",0,0,1,,,-1,-1
+767:7,NA,NA,wow-dinan_et_al,"i'm not sure, but i do know that they have more than 35 million years ago.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+234:4,NA,NA,wow-reference,"they can provide some companionship to people who can't socialize much, like the elderly, or people with bad social anxiety.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,5
+281:7,NA,NA,wow-t5,"i don't know the name, but i know he wrote his first novel, ""the passing"", while he was a student at the university of notre dame.",1,0,0,"Yes, I understand it.","No, not fully attributable.",5,4
