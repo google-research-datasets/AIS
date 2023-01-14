@@ -1,7 +1,5 @@
 # AIS: Attributable to Identified Sources
 
-[TOC]
-
 AIS is an evaluation framework for assessing whether the output of natural language models only contains information about the external world that is verifiable in source documents, or **attributable to identified sources**.
 
 This repository contains annotations for model output on four source datasets (CNN/DM, QReCC, Wizard of Wikipedia, and ToTTo). We provide the model output and annotations. The detailed description of our evaluation methodology, including the annotation guidelines, annotation interfaces, and operational statistics are included in our [paper](https://arxiv.org/abs/2112.12870).
